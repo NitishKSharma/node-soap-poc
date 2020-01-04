@@ -1,0 +1,2071 @@
+{
+  "program": {
+    "fileInfos": {
+      "./node_modules/typescript/lib/lib.es6.d.ts": {
+        "version": "c180f01a2aaac7d733001fa1db20f881dc83cf33096b674a1546ca26762e69da",
+        "signature": "c180f01a2aaac7d733001fa1db20f881dc83cf33096b674a1546ca26762e69da"
+      },
+      "./node_modules/typescript/lib/lib.es5.d.ts": {
+        "version": "ff5688d6b2fcfef06842a395d7ff4d5730d45b724d4c48913118c889829052a1",
+        "signature": "ff5688d6b2fcfef06842a395d7ff4d5730d45b724d4c48913118c889829052a1"
+      },
+      "./node_modules/typescript/lib/lib.es2015.d.ts": {
+        "version": "7994d44005046d1413ea31d046577cdda33b8b2470f30281fd9c8b3c99fe2d96",
+        "signature": "7994d44005046d1413ea31d046577cdda33b8b2470f30281fd9c8b3c99fe2d96"
+      },
+      "./node_modules/typescript/lib/lib.es2016.d.ts": {
+        "version": "5f217838d25704474d9ef93774f04164889169ca31475fe423a9de6758f058d1",
+        "signature": "5f217838d25704474d9ef93774f04164889169ca31475fe423a9de6758f058d1"
+      },
+      "./node_modules/typescript/lib/lib.es2017.d.ts": {
+        "version": "459097c7bdd88fc5731367e56591e4f465f2c9de81a35427a7bd473165c34743",
+        "signature": "459097c7bdd88fc5731367e56591e4f465f2c9de81a35427a7bd473165c34743"
+      },
+      "./node_modules/typescript/lib/lib.dom.d.ts": {
+        "version": "2d53f3741e5a4f78a90f623387d71a1cc809bb258f10cdaec034b67cbf71022f",
+        "signature": "2d53f3741e5a4f78a90f623387d71a1cc809bb258f10cdaec034b67cbf71022f"
+      },
+      "./node_modules/typescript/lib/lib.dom.iterable.d.ts": {
+        "version": "f42b5c6ad71e2229f1fea2065bc28b887344bc7e7acd9d87e2e53d6376736890",
+        "signature": "f42b5c6ad71e2229f1fea2065bc28b887344bc7e7acd9d87e2e53d6376736890"
+      },
+      "./node_modules/typescript/lib/lib.webworker.importscripts.d.ts": {
+        "version": "fe4e59403e34c7ff747abe4ff6abbc7718229556d7c1a5b93473fb53156c913b",
+        "signature": "fe4e59403e34c7ff747abe4ff6abbc7718229556d7c1a5b93473fb53156c913b"
+      },
+      "./node_modules/typescript/lib/lib.scripthost.d.ts": {
+        "version": "b9faa17292f17d2ad75e34fac77dd63a6403af1dba02d39cd0cbb9ffdf3de8b9",
+        "signature": "b9faa17292f17d2ad75e34fac77dd63a6403af1dba02d39cd0cbb9ffdf3de8b9"
+      },
+      "./node_modules/typescript/lib/lib.es2015.core.d.ts": {
+        "version": "4ab19088d508f9e62bfc61c157e8a65b2afaefa251ecca315e7d20b5b97b256f",
+        "signature": "4ab19088d508f9e62bfc61c157e8a65b2afaefa251ecca315e7d20b5b97b256f"
+      },
+      "./node_modules/typescript/lib/lib.es2015.collection.d.ts": {
+        "version": "dd94d8ef48c562389eb58af8df3a3a34d11367f7c818192aa5f16470d469e3f0",
+        "signature": "dd94d8ef48c562389eb58af8df3a3a34d11367f7c818192aa5f16470d469e3f0"
+      },
+      "./node_modules/typescript/lib/lib.es2015.generator.d.ts": {
+        "version": "765e0e9c9d74cf4d031ca8b0bdb269a853e7d81eda6354c8510218d03db12122",
+        "signature": "765e0e9c9d74cf4d031ca8b0bdb269a853e7d81eda6354c8510218d03db12122"
+      },
+      "./node_modules/typescript/lib/lib.es2015.iterable.d.ts": {
+        "version": "285958e7699f1babd76d595830207f18d719662a0c30fac7baca7df7162a9210",
+        "signature": "285958e7699f1babd76d595830207f18d719662a0c30fac7baca7df7162a9210"
+      },
+      "./node_modules/typescript/lib/lib.es2015.promise.d.ts": {
+        "version": "e6b8ff2798f8ebd7a1c7afd8671f2cb67ee1901c422f5964d74b0b34c6574ea2",
+        "signature": "e6b8ff2798f8ebd7a1c7afd8671f2cb67ee1901c422f5964d74b0b34c6574ea2"
+      },
+      "./node_modules/typescript/lib/lib.es2015.proxy.d.ts": {
+        "version": "5e72f949a89717db444e3bd9433468890068bb21a5638d8ab15a1359e05e54fe",
+        "signature": "5e72f949a89717db444e3bd9433468890068bb21a5638d8ab15a1359e05e54fe"
+      },
+      "./node_modules/typescript/lib/lib.es2015.reflect.d.ts": {
+        "version": "f5b242136ae9bfb1cc99a5971cccc44e99947ae6b5ef6fd8aa54b5ade553b976",
+        "signature": "f5b242136ae9bfb1cc99a5971cccc44e99947ae6b5ef6fd8aa54b5ade553b976"
+      },
+      "./node_modules/typescript/lib/lib.es2015.symbol.d.ts": {
+        "version": "9ae2860252d6b5f16e2026d8a2c2069db7b2a3295e98b6031d01337b96437230",
+        "signature": "9ae2860252d6b5f16e2026d8a2c2069db7b2a3295e98b6031d01337b96437230"
+      },
+      "./node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts": {
+        "version": "3e0a459888f32b42138d5a39f706ff2d55d500ab1031e0988b5568b0f67c2303",
+        "signature": "3e0a459888f32b42138d5a39f706ff2d55d500ab1031e0988b5568b0f67c2303"
+      },
+      "./node_modules/typescript/lib/lib.es2016.array.include.d.ts": {
+        "version": "3f96f1e570aedbd97bf818c246727151e873125d0512e4ae904330286c721bc0",
+        "signature": "3f96f1e570aedbd97bf818c246727151e873125d0512e4ae904330286c721bc0"
+      },
+      "./node_modules/typescript/lib/lib.es2017.object.d.ts": {
+        "version": "ff8ad203e83338289b0f5defc1a5b5c253fb7d251b464db497383f915a0df3f4",
+        "signature": "ff8ad203e83338289b0f5defc1a5b5c253fb7d251b464db497383f915a0df3f4"
+      },
+      "./node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts": {
+        "version": "b8667586a618c5cf64523d4e500ae39e781428abfb28f3de441fc66b56144b6f",
+        "signature": "b8667586a618c5cf64523d4e500ae39e781428abfb28f3de441fc66b56144b6f"
+      },
+      "./node_modules/typescript/lib/lib.es2017.string.d.ts": {
+        "version": "21df2e0059f14dcb4c3a0e125859f6b6ff01332ee24b0065a741d121250bc71c",
+        "signature": "21df2e0059f14dcb4c3a0e125859f6b6ff01332ee24b0065a741d121250bc71c"
+      },
+      "./node_modules/typescript/lib/lib.es2017.intl.d.ts": {
+        "version": "c1759cb171c7619af0d2234f2f8fb2a871ee88e956e2ed91bb61778e41f272c6",
+        "signature": "c1759cb171c7619af0d2234f2f8fb2a871ee88e956e2ed91bb61778e41f272c6"
+      },
+      "./node_modules/typescript/lib/lib.es2017.typedarrays.d.ts": {
+        "version": "28569d59e07d4378cb3d54979c4c60f9f06305c9bb6999ffe6cab758957adc46",
+        "signature": "28569d59e07d4378cb3d54979c4c60f9f06305c9bb6999ffe6cab758957adc46"
+      },
+      "./node_modules/reflect-metadata/index.d.ts": {
+        "version": "8d6d51a5118d000ed3bfe6e1dd1335bebfff3fef23cd2af2f84a24d30f90cc90",
+        "signature": "8d6d51a5118d000ed3bfe6e1dd1335bebfff3fef23cd2af2f84a24d30f90cc90"
+      },
+      "./node_modules/@nivinjoseph/n-ject/dist/scope-type.d.ts": {
+        "version": "0df26d79e1bf428effe4a71741054989316a02056508f132f37c8b49a7e7fad7",
+        "signature": "0df26d79e1bf428effe4a71741054989316a02056508f132f37c8b49a7e7fad7"
+      },
+      "./node_modules/@nivinjoseph/n-ext/dist/index.d.ts": {
+        "version": "3262e05e1b7cc590934a3287e432cd29f614b270b722db9174227973bc51cb70",
+        "signature": "3262e05e1b7cc590934a3287e432cd29f614b270b722db9174227973bc51cb70"
+      },
+      "./node_modules/@nivinjoseph/n-util/dist/make.d.ts": {
+        "version": "67b93e00140977f80bea0a24d31013bb71e3eb6e52a1861b4152feb539c61e68",
+        "signature": "67b93e00140977f80bea0a24d31013bb71e3eb6e52a1861b4152feb539c61e68"
+      },
+      "./node_modules/@nivinjoseph/n-util/dist/delay.d.ts": {
+        "version": "067aa1f7e20f50c6ea341b589206b5c87bf4fbb77ea8711ab8bd99444aaa8727",
+        "signature": "067aa1f7e20f50c6ea341b589206b5c87bf4fbb77ea8711ab8bd99444aaa8727"
+      },
+      "./node_modules/@nivinjoseph/n-util/dist/disposable.d.ts": {
+        "version": "85622d7de8d8085c33439bdd748d0318ee013ff05c91af22f24c5a800652f86f",
+        "signature": "85622d7de8d8085c33439bdd748d0318ee013ff05c91af22f24c5a800652f86f"
+      },
+      "./node_modules/@nivinjoseph/n-util/dist/background-processor.d.ts": {
+        "version": "5c86d5fce84cf35d4e1540c880a7a2ab22391d93a8c133215b7fe05140191174",
+        "signature": "5c86d5fce84cf35d4e1540c880a7a2ab22391d93a8c133215b7fe05140191174"
+      },
+      "./node_modules/@nivinjoseph/n-util/dist/uuid.d.ts": {
+        "version": "9f8a0d14e733775511b13aa7efdc4f2cfac0f1ca4e504c0b7cffc446fa5c0c4a",
+        "signature": "9f8a0d14e733775511b13aa7efdc4f2cfac0f1ca4e504c0b7cffc446fa5c0c4a"
+      },
+      "./node_modules/@nivinjoseph/n-util/dist/type-helper.d.ts": {
+        "version": "f23feef5bfad2d2278290359dce6e542b6908f21243c16465b4fb6ade530fc58",
+        "signature": "f23feef5bfad2d2278290359dce6e542b6908f21243c16465b4fb6ade530fc58"
+      },
+      "./node_modules/@nivinjoseph/n-util/dist/duration.d.ts": {
+        "version": "bbbaf9eb0507cde01332975c7bcf59aa06799debb0b9be94c2f8d8dbee211681",
+        "signature": "bbbaf9eb0507cde01332975c7bcf59aa06799debb0b9be94c2f8d8dbee211681"
+      },
+      "./node_modules/@nivinjoseph/n-util/dist/time.d.ts": {
+        "version": "d57f9e40b04c1cad64c42db7b08ee6dc889a7326148845954e639f8a9f28483b",
+        "signature": "d57f9e40b04c1cad64c42db7b08ee6dc889a7326148845954e639f8a9f28483b"
+      },
+      "./node_modules/@types/node/inspector.d.ts": {
+        "version": "7e49dbf1543b3ee54853ade4c5e9fa460b6a4eca967efe6bf943e0c505d087ed",
+        "signature": "7e49dbf1543b3ee54853ade4c5e9fa460b6a4eca967efe6bf943e0c505d087ed"
+      },
+      "./node_modules/@types/node/base.d.ts": {
+        "version": "d5edb650952175d574eabe3ca22fbd7c381cfd4c6b8496bb84cd91ab80695f59",
+        "signature": "d5edb650952175d574eabe3ca22fbd7c381cfd4c6b8496bb84cd91ab80695f59"
+      },
+      "./node_modules/@types/node/ts3.2/index.d.ts": {
+        "version": "1de0ff6200b92798a5aef43f57029c79dbf69932037dee1c007fdd2c562db258",
+        "signature": "1de0ff6200b92798a5aef43f57029c79dbf69932037dee1c007fdd2c562db258"
+      },
+      "./node_modules/@nivinjoseph/n-util/dist/image-helper.d.ts": {
+        "version": "40c8be8a428b23d50b392dd178e499c077d99e753597e06441db130d38efabbb",
+        "signature": "40c8be8a428b23d50b392dd178e499c077d99e753597e06441db130d38efabbb"
+      },
+      "./node_modules/@nivinjoseph/n-util/dist/deferred.d.ts": {
+        "version": "76611a2754ee95d05100cd8ed9f1be6593e6a6d74733879deb05dff5ac56807f",
+        "signature": "76611a2754ee95d05100cd8ed9f1be6593e6a6d74733879deb05dff5ac56807f"
+      },
+      "./node_modules/@nivinjoseph/n-util/dist/mutex.d.ts": {
+        "version": "a12e255b071b3564cec577aff84ff6ee9620183ba7f578b34080580ea2f35bda",
+        "signature": "a12e255b071b3564cec577aff84ff6ee9620183ba7f578b34080580ea2f35bda"
+      },
+      "./node_modules/@nivinjoseph/n-util/dist/index.d.ts": {
+        "version": "0221186287c93177c9ef8f1071a4a1d421347afd8f1f352f4d657af9657cd5a0",
+        "signature": "0221186287c93177c9ef8f1071a4a1d421347afd8f1f352f4d657af9657cd5a0"
+      },
+      "./node_modules/@nivinjoseph/n-ject/dist/service-locator.d.ts": {
+        "version": "76a4b3ccfeac9ae2d7680fe44e785791372c3fe1f41e1116c537b9e6d39b8334",
+        "signature": "76a4b3ccfeac9ae2d7680fe44e785791372c3fe1f41e1116c537b9e6d39b8334"
+      },
+      "./node_modules/@nivinjoseph/n-ject/dist/scope.d.ts": {
+        "version": "ca8281ace3ed88c91e98d03da205528fcc1673eb7fa8cda01d33784b650843dc",
+        "signature": "ca8281ace3ed88c91e98d03da205528fcc1673eb7fa8cda01d33784b650843dc"
+      },
+      "./node_modules/@nivinjoseph/n-ject/dist/lifestyle.d.ts": {
+        "version": "e031fb91c124c6fc39c4e10ae71f52f994403184a2c6befea4ca22bb089ecea4",
+        "signature": "e031fb91c124c6fc39c4e10ae71f52f994403184a2c6befea4ca22bb089ecea4"
+      },
+      "./node_modules/@nivinjoseph/n-ject/dist/component-registration.d.ts": {
+        "version": "663a020d4261a0bb061d703dc94cc34bdef625342a68cdb32e277ad42cf3b463",
+        "signature": "663a020d4261a0bb061d703dc94cc34bdef625342a68cdb32e277ad42cf3b463"
+      },
+      "./node_modules/@nivinjoseph/n-ject/dist/component-registry.d.ts": {
+        "version": "b51b6f9cd662be79269f7e77cec4bcbb296a4fcc863db082ce617a2eaab863bf",
+        "signature": "b51b6f9cd662be79269f7e77cec4bcbb296a4fcc863db082ce617a2eaab863bf"
+      },
+      "./node_modules/@nivinjoseph/n-ject/dist/base-scope.d.ts": {
+        "version": "757e9663382b52e08d34d4812a556903f2ca9230e4d4d5c6671197f20aa06035",
+        "signature": "757e9663382b52e08d34d4812a556903f2ca9230e4d4d5c6671197f20aa06035"
+      },
+      "./node_modules/@nivinjoseph/n-ject/dist/registry.d.ts": {
+        "version": "a4c877415f934fb8a4bff175de79998edc1cfda76de3a439fe92e2af436c4eb9",
+        "signature": "a4c877415f934fb8a4bff175de79998edc1cfda76de3a439fe92e2af436c4eb9"
+      },
+      "./node_modules/@nivinjoseph/n-ject/dist/component-installer.d.ts": {
+        "version": "2b330a0dc365a860796fc73ee0deeda82a8fa63e3222365a9844bf69477ee4ba",
+        "signature": "2b330a0dc365a860796fc73ee0deeda82a8fa63e3222365a9844bf69477ee4ba"
+      },
+      "./node_modules/@nivinjoseph/n-ject/dist/container.d.ts": {
+        "version": "6ac40168585c8d6c3691a6bc7e1a2abb45f05b660877e7ea3c394956590d30e1",
+        "signature": "6ac40168585c8d6c3691a6bc7e1a2abb45f05b660877e7ea3c394956590d30e1"
+      },
+      "./node_modules/@nivinjoseph/n-ject/dist/inject.d.ts": {
+        "version": "0c9a75dbc9603c8aa3fd4305f6894e6aa814edf7726dd0665bed0ee895c6e8b0",
+        "signature": "0c9a75dbc9603c8aa3fd4305f6894e6aa814edf7726dd0665bed0ee895c6e8b0"
+      },
+      "./node_modules/@nivinjoseph/n-ject/dist/index.d.ts": {
+        "version": "dd4aedd50166f0c5596a1552027aba1748997c5b1a8f4bf8e3bc862c2e58572f",
+        "signature": "dd4aedd50166f0c5596a1552027aba1748997c5b1a8f4bf8e3bc862c2e58572f"
+      },
+      "./node_modules/@nivinjoseph/n-defensive/dist/index.d.ts": {
+        "version": "553a0c8667797736d50f5e1a29dd32214a8722c11f769f355d6e9d2f3be193c5",
+        "signature": "553a0c8667797736d50f5e1a29dd32214a8722c11f769f355d6e9d2f3be193c5"
+      },
+      "./src/api/app-component-installer.ts": {
+        "version": "1fcd6ad9ef7593945092a4faa2b66009d8aae9b61bff87875eeba22a12a379b1",
+        "signature": "e3ba6453906dd60f9dda2e4b3f4ceb762c7172a0e463652b60be5843f1e361fe"
+      },
+      "./node_modules/@nivinjoseph/n-exception/dist/exception.d.ts": {
+        "version": "92dc5e8280aa39b156cf4a5063f6c8a5088ee74c55c055a93ae09a371a1ca9e8",
+        "signature": "92dc5e8280aa39b156cf4a5063f6c8a5088ee74c55c055a93ae09a371a1ca9e8"
+      },
+      "./node_modules/@nivinjoseph/n-exception/dist/application-exception.d.ts": {
+        "version": "76b98d0d5332aeb47561711aec97671ba5f6b78aebf2761eb2f9d6bd5c454dbe",
+        "signature": "76b98d0d5332aeb47561711aec97671ba5f6b78aebf2761eb2f9d6bd5c454dbe"
+      },
+      "./node_modules/@nivinjoseph/n-exception/dist/argument-exception.d.ts": {
+        "version": "510206f73fd307684f39947a368c8ece9f0baa167239300a0607ee83e4cda929",
+        "signature": "510206f73fd307684f39947a368c8ece9f0baa167239300a0607ee83e4cda929"
+      },
+      "./node_modules/@nivinjoseph/n-exception/dist/argument-null-exception.d.ts": {
+        "version": "76637df7bf9105dad91bc0af6912083be64c6d703361d5a5613c58e56e5c8c3e",
+        "signature": "76637df7bf9105dad91bc0af6912083be64c6d703361d5a5613c58e56e5c8c3e"
+      },
+      "./node_modules/@nivinjoseph/n-exception/dist/invalid-argument-exception.d.ts": {
+        "version": "559ccdbcb7b9ed21cd04a31d7dacba96869c2197357f1eeb91bbdd5de546c191",
+        "signature": "559ccdbcb7b9ed21cd04a31d7dacba96869c2197357f1eeb91bbdd5de546c191"
+      },
+      "./node_modules/@nivinjoseph/n-exception/dist/invalid-operation-exception.d.ts": {
+        "version": "d681e76020d1e01726fd8ee3d6963fc5e208f66aa80a8c0f224be146befec3b2",
+        "signature": "d681e76020d1e01726fd8ee3d6963fc5e208f66aa80a8c0f224be146befec3b2"
+      },
+      "./node_modules/@nivinjoseph/n-exception/dist/not-implemented-exception.d.ts": {
+        "version": "302f0e2100fff6a4a2c818b75dbc9b073798a41ddc88a287a06c24abbe293a7f",
+        "signature": "302f0e2100fff6a4a2c818b75dbc9b073798a41ddc88a287a06c24abbe293a7f"
+      },
+      "./node_modules/@nivinjoseph/n-exception/dist/object-disposed-exception.d.ts": {
+        "version": "352469a86648d470f36c2742637a9b4004a3ecc5de183c9c9955d4fed6f88c54",
+        "signature": "352469a86648d470f36c2742637a9b4004a3ecc5de183c9c9955d4fed6f88c54"
+      },
+      "./node_modules/@nivinjoseph/n-exception/dist/index.d.ts": {
+        "version": "b6ffae4994088a74afbc8aeb5cd2068c0832721c1a06bdc1f41ebd8ee196e8fd",
+        "signature": "b6ffae4994088a74afbc8aeb5cd2068c0832721c1a06bdc1f41ebd8ee196e8fd"
+      },
+      "./node_modules/@nivinjoseph/n-log/dist/logger.d.ts": {
+        "version": "2a50dc4c09fe570a8eefba58a9723bbcbb837cfc3753d4282c7381fe17a11eba",
+        "signature": "2a50dc4c09fe570a8eefba58a9723bbcbb837cfc3753d4282c7381fe17a11eba"
+      },
+      "./node_modules/@nivinjoseph/n-log/dist/log-date-time-zone.d.ts": {
+        "version": "340a79aa6f3e6b42a9fdaf99581836289431222bf8ec91c82fa98524ac243d6b",
+        "signature": "340a79aa6f3e6b42a9fdaf99581836289431222bf8ec91c82fa98524ac243d6b"
+      },
+      "./node_modules/@nivinjoseph/n-log/dist/console-logger.d.ts": {
+        "version": "a1173a3bc610e7205e067f8d9fb8f6c588953ef83e9ff3abbca713da3be38310",
+        "signature": "a1173a3bc610e7205e067f8d9fb8f6c588953ef83e9ff3abbca713da3be38310"
+      },
+      "./node_modules/@nivinjoseph/n-log/dist/file-logger.d.ts": {
+        "version": "a0fb8016872c35362de80fe0a8dab7e57759d2073f6601038fd413c3068f2c59",
+        "signature": "a0fb8016872c35362de80fe0a8dab7e57759d2073f6601038fd413c3068f2c59"
+      },
+      "./node_modules/@nivinjoseph/n-log/dist/index.d.ts": {
+        "version": "dd34cf332af6075cc548006dbda806b6dc03cdf3fc28ca99ba9aacb1f37144c3",
+        "signature": "dd34cf332af6075cc548006dbda806b6dc03cdf3fc28ca99ba9aacb1f37144c3"
+      },
+      "./node_modules/@nivinjoseph/n-web/dist/web-app.d.ts": {
+        "version": "cd4cfb2622a240531770e6a095e67f137b7bd742e3ad4b365d18b42b6617e657",
+        "signature": "cd4cfb2622a240531770e6a095e67f137b7bd742e3ad4b365d18b42b6617e657"
+      },
+      "./node_modules/@nivinjoseph/n-web/dist/controller.d.ts": {
+        "version": "3e9d3e65f7217a16ddf6e9a5a24153d121bd0b6736481257d9c11b43bbaf3893",
+        "signature": "3e9d3e65f7217a16ddf6e9a5a24153d121bd0b6736481257d9c11b43bbaf3893"
+      },
+      "./node_modules/@nivinjoseph/n-web/dist/route.d.ts": {
+        "version": "f3c9ed8a43265a661d94dbb389d51656d2138024e88f4db8217741fa853b5e9c",
+        "signature": "f3c9ed8a43265a661d94dbb389d51656d2138024e88f4db8217741fa853b5e9c"
+      },
+      "./node_modules/@nivinjoseph/n-web/dist/http-method.d.ts": {
+        "version": "a8af3fb878f193bdbc0804ca40c2d8b8bea0e347b2ffdc27ae52a173ce0c4d06",
+        "signature": "a8af3fb878f193bdbc0804ca40c2d8b8bea0e347b2ffdc27ae52a173ce0c4d06"
+      },
+      "./node_modules/@nivinjoseph/n-web/dist/query.d.ts": {
+        "version": "a50f6ea53c55d266881dc52c8caaeeb983b3738a5ee41f1fd1942f94ab93477d",
+        "signature": "a50f6ea53c55d266881dc52c8caaeeb983b3738a5ee41f1fd1942f94ab93477d"
+      },
+      "./node_modules/@nivinjoseph/n-web/dist/command.d.ts": {
+        "version": "20817fe6e0870e8c509446baa6931ff80b628efdfdc997efa3710d7e18995374",
+        "signature": "20817fe6e0870e8c509446baa6931ff80b628efdfdc997efa3710d7e18995374"
+      },
+      "./node_modules/@nivinjoseph/n-web/dist/view.d.ts": {
+        "version": "7fecde3069eab6be913dfa0bf98148dcc3be49b10057059f68aa55f6e69e49e3",
+        "signature": "7fecde3069eab6be913dfa0bf98148dcc3be49b10057059f68aa55f6e69e49e3"
+      },
+      "./node_modules/@nivinjoseph/n-web/dist/view-layout.d.ts": {
+        "version": "c32e42fc15a51252f11cfd6270f452290afce4656ef06e43a20ba9516e31eaf8",
+        "signature": "c32e42fc15a51252f11cfd6270f452290afce4656ef06e43a20ba9516e31eaf8"
+      },
+      "./node_modules/@nivinjoseph/n-web/dist/utils.d.ts": {
+        "version": "63e2d0174a33f0ad5b0c692d27723528ac702a0be150b8668f4fedf637f24859",
+        "signature": "63e2d0174a33f0ad5b0c692d27723528ac702a0be150b8668f4fedf637f24859"
+      },
+      "./node_modules/@nivinjoseph/n-web/dist/exceptions/http-exception.d.ts": {
+        "version": "dd247d75fdb797caed1f1c87985cbe850f7e37b370cbf2c15979e4814c68cd8c",
+        "signature": "dd247d75fdb797caed1f1c87985cbe850f7e37b370cbf2c15979e4814c68cd8c"
+      },
+      "./node_modules/@nivinjoseph/n-web/dist/exceptions/exception-handler.d.ts": {
+        "version": "9ffc33d88a9ef8a5c40bd54bd169615ba9d69cbcc4c77d5b2fb122cf5a9e780e",
+        "signature": "9ffc33d88a9ef8a5c40bd54bd169615ba9d69cbcc4c77d5b2fb122cf5a9e780e"
+      },
+      "./node_modules/@nivinjoseph/n-web/dist/exceptions/default-exception-handler.d.ts": {
+        "version": "4c259a99508e0705563ba3eed2ad5016d6a82c5eb025b585381e526cbc648486",
+        "signature": "4c259a99508e0705563ba3eed2ad5016d6a82c5eb025b585381e526cbc648486"
+      },
+      "./node_modules/@nivinjoseph/n-sec/dist/crypto/symmetric-encryption.d.ts": {
+        "version": "910dc46a1cea7df4e825ead1e464707f76d79768cb1a51f88101e27206118aba",
+        "signature": "910dc46a1cea7df4e825ead1e464707f76d79768cb1a51f88101e27206118aba"
+      },
+      "./node_modules/@nivinjoseph/n-sec/dist/crypto/hmac.d.ts": {
+        "version": "fa151c2e3672ba965ccc4658a9b06785afcbd703b247da4418ad91262f5c0fd2",
+        "signature": "fa151c2e3672ba965ccc4658a9b06785afcbd703b247da4418ad91262f5c0fd2"
+      },
+      "./node_modules/@nivinjoseph/n-sec/dist/crypto/hash.d.ts": {
+        "version": "8b225f525e309bac8c1ae519873088f298e8f46294aa74731329b99a592a60e5",
+        "signature": "8b225f525e309bac8c1ae519873088f298e8f46294aa74731329b99a592a60e5"
+      },
+      "./node_modules/@nivinjoseph/n-sec/dist/crypto/digital-signature.d.ts": {
+        "version": "5b202bf4502565502a4442dee71355b653e872388504fdbeebc3f750faa01877",
+        "signature": "5b202bf4502565502a4442dee71355b653e872388504fdbeebc3f750faa01877"
+      },
+      "./node_modules/@nivinjoseph/n-sec/dist/crypto/asymmetric-encryption.d.ts": {
+        "version": "c76e3c7fd606069cf0c05f022bd491208716fd7bcc74ae123c58b5e9c2ca9970",
+        "signature": "c76e3c7fd606069cf0c05f022bd491208716fd7bcc74ae123c58b5e9c2ca9970"
+      },
+      "./node_modules/@nivinjoseph/n-sec/dist/crypto/crypto-exception.d.ts": {
+        "version": "265cf55385050d27ceaadffbe029dd5ae07aa8560aa9da436308ef9653096587",
+        "signature": "265cf55385050d27ceaadffbe029dd5ae07aa8560aa9da436308ef9653096587"
+      },
+      "./node_modules/@nivinjoseph/n-sec/dist/api-security/alg-type.d.ts": {
+        "version": "fbd75a010eb1a2df61e13550e9e3fb9b475b6f0193d98a655efeb9725d9e45fb",
+        "signature": "fbd75a010eb1a2df61e13550e9e3fb9b475b6f0193d98a655efeb9725d9e45fb"
+      },
+      "./node_modules/@nivinjoseph/n-sec/dist/api-security/claim.d.ts": {
+        "version": "16b04343e4c4d79b73991a399e8efefbb1377ce0d93e36f7638ab1f9418ca337",
+        "signature": "16b04343e4c4d79b73991a399e8efefbb1377ce0d93e36f7638ab1f9418ca337"
+      },
+      "./node_modules/@nivinjoseph/n-sec/dist/api-security/claims-identity.d.ts": {
+        "version": "ca556a9f6f6c4ddcadb6a649842d5aac41b5cb84a86516bed9c91e569cd6feaf",
+        "signature": "ca556a9f6f6c4ddcadb6a649842d5aac41b5cb84a86516bed9c91e569cd6feaf"
+      },
+      "./node_modules/@nivinjoseph/n-sec/dist/api-security/expired-token-exception.d.ts": {
+        "version": "8b76606a68d89108310c875cf638d97838e3a283436bd8c1b56f8991d69ec45d",
+        "signature": "8b76606a68d89108310c875cf638d97838e3a283436bd8c1b56f8991d69ec45d"
+      },
+      "./node_modules/@nivinjoseph/n-sec/dist/api-security/invalid-token-exception.d.ts": {
+        "version": "3a592ea63def6d5dad54f327a849e10e788aa7c5675d3d471e1e0dffcff7f775",
+        "signature": "3a592ea63def6d5dad54f327a849e10e788aa7c5675d3d471e1e0dffcff7f775"
+      },
+      "./node_modules/@nivinjoseph/n-sec/dist/api-security/json-web-token.d.ts": {
+        "version": "5246a1081727c427ada95c1c48ce33acaddedc27c84df6a87b248c18f098e640",
+        "signature": "5246a1081727c427ada95c1c48ce33acaddedc27c84df6a87b248c18f098e640"
+      },
+      "./node_modules/@nivinjoseph/n-sec/dist/index.d.ts": {
+        "version": "86244bf75dae0b545ac4daf86420ef58b561ba3cefcdd04ab040ff5852dbaeb9",
+        "signature": "86244bf75dae0b545ac4daf86420ef58b561ba3cefcdd04ab040ff5852dbaeb9"
+      },
+      "./node_modules/@nivinjoseph/n-web/dist/services/call-context/call-context.d.ts": {
+        "version": "3eb0e2b9eb4e817a22122b8ddedd6998c525166ab20289e0b3a68936051c19c2",
+        "signature": "3eb0e2b9eb4e817a22122b8ddedd6998c525166ab20289e0b3a68936051c19c2"
+      },
+      "./node_modules/@nivinjoseph/n-web/dist/application-script.d.ts": {
+        "version": "da7f2eda0ae21e4a30736b644a7d96028791221e8c366dc0c164c7ccef78f97e",
+        "signature": "da7f2eda0ae21e4a30736b644a7d96028791221e8c366dc0c164c7ccef78f97e"
+      },
+      "./node_modules/@nivinjoseph/n-web/dist/security/authentication-handler.d.ts": {
+        "version": "ad9d421dd844ade9d7f353580ba2eda7b922039ef777b666c8d4a1b2c227e258",
+        "signature": "ad9d421dd844ade9d7f353580ba2eda7b922039ef777b666c8d4a1b2c227e258"
+      },
+      "./node_modules/@nivinjoseph/n-web/dist/security/authorization-handler.d.ts": {
+        "version": "765f5ce1eb42bc009cc2508a7f27be11fd94b4db40936e844bcfb462e7f9d7bf",
+        "signature": "765f5ce1eb42bc009cc2508a7f27be11fd94b4db40936e844bcfb462e7f9d7bf"
+      },
+      "./node_modules/@nivinjoseph/n-web/dist/security/default-authorization-handler.d.ts": {
+        "version": "09e074239c977da17d6a34a267dad27665d80488f150bd719fc9b1bddb455306",
+        "signature": "09e074239c977da17d6a34a267dad27665d80488f150bd719fc9b1bddb455306"
+      },
+      "./node_modules/@nivinjoseph/n-web/dist/security/authorize.d.ts": {
+        "version": "d0fa7079b9f18bb5051046e0b95ea1a8a556983975211880b139bed99333a34b",
+        "signature": "d0fa7079b9f18bb5051046e0b95ea1a8a556983975211880b139bed99333a34b"
+      },
+      "./node_modules/@nivinjoseph/n-web/dist/index.d.ts": {
+        "version": "2f2638ffcd873be437d3c8b4971f415399a47cd687639e59a034eafc0b0298aa",
+        "signature": "2f2638ffcd873be437d3c8b4971f415399a47cd687639e59a034eafc0b0298aa"
+      },
+      "./node_modules/@nivinjoseph/n-config/dist/index.d.ts": {
+        "version": "b538d72ba799e645dedff7a5b86de78ba615172f1605a04dc426a484980cdc09",
+        "signature": "b538d72ba799e645dedff7a5b86de78ba615172f1605a04dc426a484980cdc09"
+      },
+      "./src/api/server.ts": {
+        "version": "d5a5092f267d69cdf989be09e16424233eeec2d8e24acb36a694b5dea216e522",
+        "signature": "8e609bb71c20b858c77f0e9f90bb1319db8477b13f9f965f1a1e18524bf50881"
+      },
+      "./node_modules/@types/bluebird/index.d.ts": {
+        "version": "b5722d23e4601c34b68c07ac5fb8d014a0a429e8699a982f0868f98227dc9d75",
+        "signature": "b5722d23e4601c34b68c07ac5fb8d014a0a429e8699a982f0868f98227dc9d75"
+      },
+      "./node_modules/@types/caseless/index.d.ts": {
+        "version": "5343f3c160282dfbaab9af350119a0c3b59b7076ef0117bb5995a66e240dab28",
+        "signature": "5343f3c160282dfbaab9af350119a0c3b59b7076ef0117bb5995a66e240dab28"
+      },
+      "./node_modules/form-data/index.d.ts": {
+        "version": "e91ad231af87f864b3f07cd0e39b1cf6c133988156f087c1c3ccb0a5491c9115",
+        "signature": "e91ad231af87f864b3f07cd0e39b1cf6c133988156f087c1c3ccb0a5491c9115"
+      },
+      "./node_modules/@types/tough-cookie/index.d.ts": {
+        "version": "078468c2ba94084260bb46220e558c2cfae12224e7e814a79795eb7c7928df18",
+        "signature": "078468c2ba94084260bb46220e558c2cfae12224e7e814a79795eb7c7928df18"
+      },
+      "./node_modules/@types/request/index.d.ts": {
+        "version": "d3c7c28e24c242c1054c6865bb6704914dfdb212063701c6fb02a8a477d00098",
+        "signature": "d3c7c28e24c242c1054c6865bb6704914dfdb212063701c6fb02a8a477d00098"
+      },
+      "./node_modules/soap/lib/http.d.ts": {
+        "version": "051888e97bf42eacc53f3cdf648cf21a1306a922baeea68bde94b36715123386",
+        "signature": "051888e97bf42eacc53f3cdf648cf21a1306a922baeea68bde94b36715123386"
+      },
+      "./node_modules/soap/lib/types.d.ts": {
+        "version": "bfc753ae5e5c7f43c108fcf537bd5d5d3cfeba082f8d4ccdf09ca20fcb8fd11a",
+        "signature": "bfc753ae5e5c7f43c108fcf537bd5d5d3cfeba082f8d4ccdf09ca20fcb8fd11a"
+      },
+      "./node_modules/soap/lib/nscontext.d.ts": {
+        "version": "88942ba174e8dbe55b367b73653fdba16cccf260e808746fc6f3c249d98d8be4",
+        "signature": "88942ba174e8dbe55b367b73653fdba16cccf260e808746fc6f3c249d98d8be4"
+      },
+      "./node_modules/soap/lib/wsdl/elements.d.ts": {
+        "version": "0e06cfff4608911608d791bd02203a57e2b9cf37ceb9c516754c13ba75ca8b13",
+        "signature": "0e06cfff4608911608d791bd02203a57e2b9cf37ceb9c516754c13ba75ca8b13"
+      },
+      "./node_modules/soap/lib/wsdl/index.d.ts": {
+        "version": "976cb30af44c9762ea1ee5b184913676738bb6eb3bb016a463de40a6f86cac1e",
+        "signature": "976cb30af44c9762ea1ee5b184913676738bb6eb3bb016a463de40a6f86cac1e"
+      },
+      "./node_modules/soap/lib/client.d.ts": {
+        "version": "31f57f417e42d00bba22be6df572216d9650ea201831d773ccef519e2b286e29",
+        "signature": "31f57f417e42d00bba22be6df572216d9650ea201831d773ccef519e2b286e29"
+      },
+      "./node_modules/soap/lib/security/BasicAuthSecurity.d.ts": {
+        "version": "7d64373ce65cbb99be5cc1799646865fd94e5bc18f7e83e9c41ce7c03989a068",
+        "signature": "7d64373ce65cbb99be5cc1799646865fd94e5bc18f7e83e9c41ce7c03989a068"
+      },
+      "./node_modules/soap/lib/security/BearerSecurity.d.ts": {
+        "version": "2eeb02a34bdabb885ba8c5c23efcebeb851fc2554bef7164272ac1631c4f9121",
+        "signature": "2eeb02a34bdabb885ba8c5c23efcebeb851fc2554bef7164272ac1631c4f9121"
+      },
+      "./node_modules/soap/lib/security/ClientSSLSecurity.d.ts": {
+        "version": "4bb4a9d0e645c138b43088296369cd5ed55159eccaead0841710b4077926fe7d",
+        "signature": "4bb4a9d0e645c138b43088296369cd5ed55159eccaead0841710b4077926fe7d"
+      },
+      "./node_modules/soap/lib/security/ClientSSLSecurityPFX.d.ts": {
+        "version": "e0d768d4d39e221dad2b5b96e117750c75534142a0bf9c3f3bf1b36db9d18c00",
+        "signature": "e0d768d4d39e221dad2b5b96e117750c75534142a0bf9c3f3bf1b36db9d18c00"
+      },
+      "./node_modules/soap/lib/security/NTLMSecurity.d.ts": {
+        "version": "162f412490dc0da52cb5e01d823a19190c8ef744407c4616648f919bc6daf83e",
+        "signature": "162f412490dc0da52cb5e01d823a19190c8ef744407c4616648f919bc6daf83e"
+      },
+      "./node_modules/soap/lib/security/WSSecurity.d.ts": {
+        "version": "d67702e1b8e17f0dbdfc319701cc852aa65db7899958cfa411feae08b44fb77f",
+        "signature": "d67702e1b8e17f0dbdfc319701cc852aa65db7899958cfa411feae08b44fb77f"
+      },
+      "./node_modules/soap/lib/security/WSSecurityCert.d.ts": {
+        "version": "a694bbc3b1006d0bc1d4d3e12960ee5efaa94abf878571f998a0ee22253d2ae5",
+        "signature": "a694bbc3b1006d0bc1d4d3e12960ee5efaa94abf878571f998a0ee22253d2ae5"
+      },
+      "./node_modules/soap/lib/security/index.d.ts": {
+        "version": "1e805978b8bc64038528e7c462551f4c81d229c29322d31e1888be6d698959e7",
+        "signature": "1e805978b8bc64038528e7c462551f4c81d229c29322d31e1888be6d698959e7"
+      },
+      "./node_modules/soap/lib/server.d.ts": {
+        "version": "0be92427dc82067262e55857d7b8d847a2f67b7bbd9455518e420fab06edc9e1",
+        "signature": "0be92427dc82067262e55857d7b8d847a2f67b7bbd9455518e420fab06edc9e1"
+      },
+      "./node_modules/soap/lib/utils.d.ts": {
+        "version": "938dd621c499f2d4dcc9e9d1444ff3c6ea6ee17aef4854eae2903c46d3652c1d",
+        "signature": "938dd621c499f2d4dcc9e9d1444ff3c6ea6ee17aef4854eae2903c46d3652c1d"
+      },
+      "./node_modules/soap/lib/soap.d.ts": {
+        "version": "544d682e97941eafdfa3de3932026acd1816642da3e9a34ccbc4a9bf0c4c3764",
+        "signature": "544d682e97941eafdfa3de3932026acd1816642da3e9a34ccbc4a9bf0c4c3764"
+      },
+      "./src/api/soap/stock.ts": {
+        "version": "f1db2b2034db5046bc3c752988f3f6b5625e7e032b1adf635961ae12fe2d0bf0",
+        "signature": "8859b681823c03fbf66f16f446a3d89d2387be676e4e11b6b19e935ebe6356f9"
+      },
+      "./test/stock.test.ts": {
+        "version": "cb79c9f3d4c952f4e87f9c7ac2ec1482083f3ee5d89a6f92929d50b4562f0dac",
+        "signature": "8e609bb71c20b858c77f0e9f90bb1319db8477b13f9f965f1a1e18524bf50881"
+      },
+      "./node_modules/@types/mocha/index.d.ts": {
+        "version": "9e658768714f6421add577e09817cedbc7e8fb66f79d01af936d24537cbcbf27",
+        "signature": "9e658768714f6421add577e09817cedbc7e8fb66f79d01af936d24537cbcbf27"
+      }
+    },
+    "options": {
+      "module": 1,
+      "target": 2,
+      "strict": true,
+      "strictNullChecks": true,
+      "strictFunctionTypes": true,
+      "noImplicitThis": true,
+      "noImplicitReturns": true,
+      "noUnusedLocals": true,
+      "noUnusedParameters": true,
+      "noFallthroughCasesInSwitch": true,
+      "noEmitOnError": true,
+      "sourceMap": true,
+      "experimentalDecorators": true,
+      "emitDecoratorMetadata": true,
+      "removeComments": true,
+      "forceConsistentCasingInFileNames": true,
+      "incremental": true,
+      "plugins": [
+        {
+          "name": "typescript-tslint-plugin",
+          "configFile": "./tslint.json",
+          "alwaysShowRuleFailuresAsWarnings": false
+        }
+      ],
+      "project": "./",
+      "watch": true,
+      "configFilePath": "./tsconfig.json"
+    },
+    "referencedMap": {
+      "./node_modules/typescript/lib/lib.es6.d.ts": [
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/typescript/lib/lib.es5.d.ts": [
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/typescript/lib/lib.es2015.d.ts": [
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/typescript/lib/lib.es2016.d.ts": [
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/typescript/lib/lib.es2017.d.ts": [
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/typescript/lib/lib.dom.d.ts": [
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/typescript/lib/lib.dom.iterable.d.ts": [
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/typescript/lib/lib.webworker.importscripts.d.ts": [
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/typescript/lib/lib.scripthost.d.ts": [
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/typescript/lib/lib.es2015.core.d.ts": [
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/typescript/lib/lib.es2015.collection.d.ts": [
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/typescript/lib/lib.es2015.generator.d.ts": [
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/typescript/lib/lib.es2015.iterable.d.ts": [
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/typescript/lib/lib.es2015.promise.d.ts": [
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/typescript/lib/lib.es2015.proxy.d.ts": [
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/typescript/lib/lib.es2015.reflect.d.ts": [
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/typescript/lib/lib.es2015.symbol.d.ts": [
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts": [
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/typescript/lib/lib.es2016.array.include.d.ts": [
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/typescript/lib/lib.es2017.object.d.ts": [
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts": [
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/typescript/lib/lib.es2017.string.d.ts": [
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/typescript/lib/lib.es2017.intl.d.ts": [
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/typescript/lib/lib.es2017.typedarrays.d.ts": [
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/reflect-metadata/index.d.ts": [
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-ject/dist/scope-type.d.ts": [
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-ext/dist/index.d.ts": [
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-util/dist/make.d.ts": [
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-util/dist/delay.d.ts": [
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-util/dist/disposable.d.ts": [
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-util/dist/background-processor.d.ts": [
+        "./node_modules/@nivinjoseph/n-util/dist/disposable.d.ts",
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-util/dist/uuid.d.ts": [
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-util/dist/type-helper.d.ts": [
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-util/dist/duration.d.ts": [
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-util/dist/time.d.ts": [
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@types/node/inspector.d.ts": [
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@types/node/base.d.ts": [
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/inspector.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@types/node/ts3.2/index.d.ts": [
+        "./node_modules/@types/node/base.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-util/dist/image-helper.d.ts": [
+        "./node_modules/@types/node/ts3.2/index.d.ts",
+        "./node_modules/@types/node/base.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-util/dist/deferred.d.ts": [
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-util/dist/mutex.d.ts": [
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-util/dist/index.d.ts": [
+        "./node_modules/@nivinjoseph/n-ext/dist/index.d.ts",
+        "./node_modules/@nivinjoseph/n-util/dist/make.d.ts",
+        "./node_modules/@nivinjoseph/n-util/dist/delay.d.ts",
+        "./node_modules/@nivinjoseph/n-util/dist/disposable.d.ts",
+        "./node_modules/@nivinjoseph/n-util/dist/background-processor.d.ts",
+        "./node_modules/@nivinjoseph/n-util/dist/uuid.d.ts",
+        "./node_modules/@nivinjoseph/n-util/dist/type-helper.d.ts",
+        "./node_modules/@nivinjoseph/n-util/dist/duration.d.ts",
+        "./node_modules/@nivinjoseph/n-util/dist/time.d.ts",
+        "./node_modules/@nivinjoseph/n-util/dist/image-helper.d.ts",
+        "./node_modules/@nivinjoseph/n-util/dist/deferred.d.ts",
+        "./node_modules/@nivinjoseph/n-util/dist/mutex.d.ts",
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-ject/dist/service-locator.d.ts": [
+        "./node_modules/@nivinjoseph/n-util/dist/index.d.ts",
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-ject/dist/scope.d.ts": [
+        "./node_modules/@nivinjoseph/n-ject/dist/scope-type.d.ts",
+        "./node_modules/@nivinjoseph/n-ject/dist/service-locator.d.ts",
+        "./node_modules/@nivinjoseph/n-util/dist/index.d.ts",
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-ject/dist/lifestyle.d.ts": [
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-ject/dist/component-registration.d.ts": [
+        "./node_modules/@nivinjoseph/n-ject/dist/lifestyle.d.ts",
+        "./node_modules/reflect-metadata/index.d.ts",
+        "./node_modules/@nivinjoseph/n-util/dist/index.d.ts",
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-ject/dist/component-registry.d.ts": [
+        "./node_modules/@nivinjoseph/n-ject/dist/lifestyle.d.ts",
+        "./node_modules/@nivinjoseph/n-ject/dist/component-registration.d.ts",
+        "./node_modules/@nivinjoseph/n-util/dist/index.d.ts",
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-ject/dist/base-scope.d.ts": [
+        "./node_modules/@nivinjoseph/n-ject/dist/scope.d.ts",
+        "./node_modules/@nivinjoseph/n-ject/dist/scope-type.d.ts",
+        "./node_modules/@nivinjoseph/n-ext/dist/index.d.ts",
+        "./node_modules/@nivinjoseph/n-ject/dist/component-registry.d.ts",
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-ject/dist/registry.d.ts": [
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-ject/dist/component-installer.d.ts": [
+        "./node_modules/@nivinjoseph/n-ject/dist/registry.d.ts",
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-ject/dist/container.d.ts": [
+        "./node_modules/@nivinjoseph/n-ject/dist/scope.d.ts",
+        "./node_modules/@nivinjoseph/n-ject/dist/base-scope.d.ts",
+        "./node_modules/@nivinjoseph/n-ject/dist/component-installer.d.ts",
+        "./node_modules/@nivinjoseph/n-ject/dist/registry.d.ts",
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-ject/dist/inject.d.ts": [
+        "./node_modules/reflect-metadata/index.d.ts",
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-ject/dist/index.d.ts": [
+        "./node_modules/reflect-metadata/index.d.ts",
+        "./node_modules/@nivinjoseph/n-ject/dist/container.d.ts",
+        "./node_modules/@nivinjoseph/n-ject/dist/scope.d.ts",
+        "./node_modules/@nivinjoseph/n-ject/dist/scope-type.d.ts",
+        "./node_modules/@nivinjoseph/n-ject/dist/component-installer.d.ts",
+        "./node_modules/@nivinjoseph/n-ject/dist/registry.d.ts",
+        "./node_modules/@nivinjoseph/n-ject/dist/inject.d.ts",
+        "./node_modules/@nivinjoseph/n-ject/dist/service-locator.d.ts",
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-defensive/dist/index.d.ts": [
+        "./node_modules/@nivinjoseph/n-ext/dist/index.d.ts",
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./src/api/app-component-installer.ts": [
+        "./node_modules/@nivinjoseph/n-ject/dist/index.d.ts",
+        "./node_modules/@nivinjoseph/n-defensive/dist/index.d.ts",
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-exception/dist/exception.d.ts": [
+        "./node_modules/@nivinjoseph/n-ext/dist/index.d.ts",
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-exception/dist/application-exception.d.ts": [
+        "./node_modules/@nivinjoseph/n-exception/dist/exception.d.ts",
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-exception/dist/argument-exception.d.ts": [
+        "./node_modules/@nivinjoseph/n-exception/dist/exception.d.ts",
+        "./node_modules/@nivinjoseph/n-ext/dist/index.d.ts",
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-exception/dist/argument-null-exception.d.ts": [
+        "./node_modules/@nivinjoseph/n-exception/dist/argument-exception.d.ts",
+        "./node_modules/@nivinjoseph/n-exception/dist/exception.d.ts",
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-exception/dist/invalid-argument-exception.d.ts": [
+        "./node_modules/@nivinjoseph/n-exception/dist/argument-exception.d.ts",
+        "./node_modules/@nivinjoseph/n-exception/dist/exception.d.ts",
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-exception/dist/invalid-operation-exception.d.ts": [
+        "./node_modules/@nivinjoseph/n-exception/dist/exception.d.ts",
+        "./node_modules/@nivinjoseph/n-ext/dist/index.d.ts",
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-exception/dist/not-implemented-exception.d.ts": [
+        "./node_modules/@nivinjoseph/n-exception/dist/exception.d.ts",
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-exception/dist/object-disposed-exception.d.ts": [
+        "./node_modules/@nivinjoseph/n-exception/dist/exception.d.ts",
+        "./node_modules/@nivinjoseph/n-ext/dist/index.d.ts",
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-exception/dist/index.d.ts": [
+        "./node_modules/@nivinjoseph/n-exception/dist/exception.d.ts",
+        "./node_modules/@nivinjoseph/n-exception/dist/application-exception.d.ts",
+        "./node_modules/@nivinjoseph/n-exception/dist/argument-exception.d.ts",
+        "./node_modules/@nivinjoseph/n-exception/dist/argument-null-exception.d.ts",
+        "./node_modules/@nivinjoseph/n-exception/dist/invalid-argument-exception.d.ts",
+        "./node_modules/@nivinjoseph/n-exception/dist/invalid-operation-exception.d.ts",
+        "./node_modules/@nivinjoseph/n-exception/dist/not-implemented-exception.d.ts",
+        "./node_modules/@nivinjoseph/n-exception/dist/object-disposed-exception.d.ts",
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-log/dist/logger.d.ts": [
+        "./node_modules/@nivinjoseph/n-exception/dist/index.d.ts",
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-log/dist/log-date-time-zone.d.ts": [
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-log/dist/console-logger.d.ts": [
+        "./node_modules/@nivinjoseph/n-log/dist/logger.d.ts",
+        "./node_modules/@nivinjoseph/n-exception/dist/index.d.ts",
+        "./node_modules/@nivinjoseph/n-log/dist/log-date-time-zone.d.ts",
+        "./node_modules/@nivinjoseph/n-ext/dist/index.d.ts",
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-log/dist/file-logger.d.ts": [
+        "./node_modules/@nivinjoseph/n-log/dist/logger.d.ts",
+        "./node_modules/@nivinjoseph/n-exception/dist/index.d.ts",
+        "./node_modules/@nivinjoseph/n-log/dist/log-date-time-zone.d.ts",
+        "./node_modules/@nivinjoseph/n-ext/dist/index.d.ts",
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-log/dist/index.d.ts": [
+        "./node_modules/@nivinjoseph/n-log/dist/logger.d.ts",
+        "./node_modules/@nivinjoseph/n-log/dist/log-date-time-zone.d.ts",
+        "./node_modules/@nivinjoseph/n-log/dist/console-logger.d.ts",
+        "./node_modules/@nivinjoseph/n-log/dist/file-logger.d.ts",
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-web/dist/web-app.d.ts": [
+        "./node_modules/@nivinjoseph/n-ject/dist/index.d.ts",
+        "./node_modules/@nivinjoseph/n-ext/dist/index.d.ts",
+        "./node_modules/@nivinjoseph/n-log/dist/index.d.ts",
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-web/dist/controller.d.ts": [
+        "./node_modules/@nivinjoseph/n-ext/dist/index.d.ts",
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-web/dist/route.d.ts": [
+        "./node_modules/reflect-metadata/index.d.ts",
+        "./node_modules/@nivinjoseph/n-ext/dist/index.d.ts",
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-web/dist/http-method.d.ts": [
+        "./node_modules/reflect-metadata/index.d.ts",
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-web/dist/query.d.ts": [
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-web/dist/command.d.ts": [
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-web/dist/view.d.ts": [
+        "./node_modules/reflect-metadata/index.d.ts",
+        "./node_modules/@nivinjoseph/n-ext/dist/index.d.ts",
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-web/dist/view-layout.d.ts": [
+        "./node_modules/reflect-metadata/index.d.ts",
+        "./node_modules/@nivinjoseph/n-ext/dist/index.d.ts",
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-web/dist/utils.d.ts": [
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-web/dist/exceptions/http-exception.d.ts": [
+        "./node_modules/@nivinjoseph/n-exception/dist/index.d.ts",
+        "./node_modules/@nivinjoseph/n-ext/dist/index.d.ts",
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-web/dist/exceptions/exception-handler.d.ts": [
+        "./node_modules/@nivinjoseph/n-exception/dist/index.d.ts",
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-web/dist/exceptions/default-exception-handler.d.ts": [
+        "./node_modules/@nivinjoseph/n-exception/dist/index.d.ts",
+        "./node_modules/@nivinjoseph/n-ext/dist/index.d.ts",
+        "./node_modules/@nivinjoseph/n-web/dist/exceptions/exception-handler.d.ts",
+        "./node_modules/@nivinjoseph/n-log/dist/index.d.ts",
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-sec/dist/crypto/symmetric-encryption.d.ts": [
+        "./node_modules/@nivinjoseph/n-ext/dist/index.d.ts",
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-sec/dist/crypto/hmac.d.ts": [
+        "./node_modules/@nivinjoseph/n-ext/dist/index.d.ts",
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-sec/dist/crypto/hash.d.ts": [
+        "./node_modules/@nivinjoseph/n-ext/dist/index.d.ts",
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-sec/dist/crypto/digital-signature.d.ts": [
+        "./node_modules/@nivinjoseph/n-ext/dist/index.d.ts",
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-sec/dist/crypto/asymmetric-encryption.d.ts": [
+        "./node_modules/@nivinjoseph/n-ext/dist/index.d.ts",
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-sec/dist/crypto/crypto-exception.d.ts": [
+        "./node_modules/@nivinjoseph/n-exception/dist/index.d.ts",
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-sec/dist/api-security/alg-type.d.ts": [
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-sec/dist/api-security/claim.d.ts": [
+        "./node_modules/@nivinjoseph/n-ext/dist/index.d.ts",
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-sec/dist/api-security/claims-identity.d.ts": [
+        "./node_modules/@nivinjoseph/n-sec/dist/api-security/claim.d.ts",
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-sec/dist/api-security/expired-token-exception.d.ts": [
+        "./node_modules/@nivinjoseph/n-exception/dist/index.d.ts",
+        "./node_modules/@nivinjoseph/n-ext/dist/index.d.ts",
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-sec/dist/api-security/invalid-token-exception.d.ts": [
+        "./node_modules/@nivinjoseph/n-exception/dist/index.d.ts",
+        "./node_modules/@nivinjoseph/n-ext/dist/index.d.ts",
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-sec/dist/api-security/json-web-token.d.ts": [
+        "./node_modules/@nivinjoseph/n-sec/dist/api-security/claim.d.ts",
+        "./node_modules/@nivinjoseph/n-ext/dist/index.d.ts",
+        "./node_modules/@nivinjoseph/n-sec/dist/api-security/alg-type.d.ts",
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-sec/dist/index.d.ts": [
+        "./node_modules/@nivinjoseph/n-sec/dist/crypto/symmetric-encryption.d.ts",
+        "./node_modules/@nivinjoseph/n-sec/dist/crypto/hmac.d.ts",
+        "./node_modules/@nivinjoseph/n-sec/dist/crypto/hash.d.ts",
+        "./node_modules/@nivinjoseph/n-sec/dist/crypto/digital-signature.d.ts",
+        "./node_modules/@nivinjoseph/n-sec/dist/crypto/asymmetric-encryption.d.ts",
+        "./node_modules/@nivinjoseph/n-sec/dist/crypto/crypto-exception.d.ts",
+        "./node_modules/@nivinjoseph/n-sec/dist/api-security/alg-type.d.ts",
+        "./node_modules/@nivinjoseph/n-sec/dist/api-security/claim.d.ts",
+        "./node_modules/@nivinjoseph/n-sec/dist/api-security/claims-identity.d.ts",
+        "./node_modules/@nivinjoseph/n-sec/dist/api-security/expired-token-exception.d.ts",
+        "./node_modules/@nivinjoseph/n-sec/dist/api-security/invalid-token-exception.d.ts",
+        "./node_modules/@nivinjoseph/n-sec/dist/api-security/json-web-token.d.ts",
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-web/dist/services/call-context/call-context.d.ts": [
+        "./node_modules/@nivinjoseph/n-ject/dist/index.d.ts",
+        "./node_modules/@nivinjoseph/n-sec/dist/index.d.ts",
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-web/dist/application-script.d.ts": [
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-web/dist/security/authentication-handler.d.ts": [
+        "./node_modules/@nivinjoseph/n-sec/dist/index.d.ts",
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-web/dist/security/authorization-handler.d.ts": [
+        "./node_modules/@nivinjoseph/n-sec/dist/index.d.ts",
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-web/dist/security/default-authorization-handler.d.ts": [
+        "./node_modules/@nivinjoseph/n-web/dist/security/authorization-handler.d.ts",
+        "./node_modules/@nivinjoseph/n-sec/dist/index.d.ts",
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-web/dist/security/authorize.d.ts": [
+        "./node_modules/reflect-metadata/index.d.ts",
+        "./node_modules/@nivinjoseph/n-sec/dist/index.d.ts",
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-web/dist/index.d.ts": [
+        "./node_modules/@nivinjoseph/n-web/dist/web-app.d.ts",
+        "./node_modules/@nivinjoseph/n-web/dist/controller.d.ts",
+        "./node_modules/@nivinjoseph/n-web/dist/route.d.ts",
+        "./node_modules/@nivinjoseph/n-web/dist/http-method.d.ts",
+        "./node_modules/@nivinjoseph/n-web/dist/query.d.ts",
+        "./node_modules/@nivinjoseph/n-web/dist/command.d.ts",
+        "./node_modules/@nivinjoseph/n-web/dist/view.d.ts",
+        "./node_modules/@nivinjoseph/n-web/dist/view-layout.d.ts",
+        "./node_modules/@nivinjoseph/n-web/dist/utils.d.ts",
+        "./node_modules/@nivinjoseph/n-web/dist/exceptions/http-exception.d.ts",
+        "./node_modules/@nivinjoseph/n-web/dist/exceptions/exception-handler.d.ts",
+        "./node_modules/@nivinjoseph/n-web/dist/exceptions/default-exception-handler.d.ts",
+        "./node_modules/@nivinjoseph/n-web/dist/services/call-context/call-context.d.ts",
+        "./node_modules/@nivinjoseph/n-web/dist/application-script.d.ts",
+        "./node_modules/@nivinjoseph/n-web/dist/security/authentication-handler.d.ts",
+        "./node_modules/@nivinjoseph/n-web/dist/security/authorization-handler.d.ts",
+        "./node_modules/@nivinjoseph/n-web/dist/security/default-authorization-handler.d.ts",
+        "./node_modules/@nivinjoseph/n-web/dist/security/authorize.d.ts",
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-config/dist/index.d.ts": [
+        "./node_modules/@nivinjoseph/n-ext/dist/index.d.ts",
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./src/api/server.ts": [
+        "./node_modules/@nivinjoseph/n-web/dist/index.d.ts",
+        "./node_modules/@nivinjoseph/n-config/dist/index.d.ts",
+        "./src/api/app-component-installer.ts",
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@types/bluebird/index.d.ts": [
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@types/caseless/index.d.ts": [
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/form-data/index.d.ts": [
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@types/tough-cookie/index.d.ts": [
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@types/request/index.d.ts": [
+        "./node_modules/@types/caseless/index.d.ts",
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/form-data/index.d.ts",
+        "./node_modules/@types/tough-cookie/index.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/soap/lib/http.d.ts": [
+        "./node_modules/@types/request/index.d.ts",
+        "./node_modules/soap/lib/types.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts",
+        "./node_modules/@types/node/base.d.ts"
+      ],
+      "./node_modules/soap/lib/types.d.ts": [
+        "./node_modules/@types/request/index.d.ts",
+        "./node_modules/soap/lib/http.d.ts",
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/soap/lib/nscontext.d.ts": [
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/soap/lib/wsdl/elements.d.ts": [
+        "./node_modules/soap/lib/types.d.ts",
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/soap/lib/wsdl/index.d.ts": [
+        "./node_modules/soap/lib/nscontext.d.ts",
+        "./node_modules/soap/lib/types.d.ts",
+        "./node_modules/soap/lib/wsdl/elements.d.ts",
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/soap/lib/client.d.ts": [
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/request/index.d.ts",
+        "./node_modules/soap/lib/types.d.ts",
+        "./node_modules/soap/lib/wsdl/index.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/soap/lib/security/BasicAuthSecurity.d.ts": [
+        "./node_modules/soap/lib/types.d.ts",
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/soap/lib/security/BearerSecurity.d.ts": [
+        "./node_modules/soap/lib/types.d.ts",
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/soap/lib/security/ClientSSLSecurity.d.ts": [
+        "./node_modules/soap/lib/types.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts",
+        "./node_modules/@types/node/base.d.ts"
+      ],
+      "./node_modules/soap/lib/security/ClientSSLSecurityPFX.d.ts": [
+        "./node_modules/soap/lib/types.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts",
+        "./node_modules/@types/node/base.d.ts"
+      ],
+      "./node_modules/soap/lib/security/NTLMSecurity.d.ts": [
+        "./node_modules/soap/lib/types.d.ts",
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/soap/lib/security/WSSecurity.d.ts": [
+        "./node_modules/soap/lib/types.d.ts",
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/soap/lib/security/WSSecurityCert.d.ts": [
+        "./node_modules/soap/lib/types.d.ts",
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/soap/lib/security/index.d.ts": [
+        "./node_modules/soap/lib/security/BasicAuthSecurity.d.ts",
+        "./node_modules/soap/lib/security/BearerSecurity.d.ts",
+        "./node_modules/soap/lib/security/ClientSSLSecurity.d.ts",
+        "./node_modules/soap/lib/security/ClientSSLSecurityPFX.d.ts",
+        "./node_modules/soap/lib/security/NTLMSecurity.d.ts",
+        "./node_modules/soap/lib/security/WSSecurity.d.ts",
+        "./node_modules/soap/lib/security/WSSecurityCert.d.ts",
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/soap/lib/server.d.ts": [
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/soap/lib/types.d.ts",
+        "./node_modules/soap/lib/wsdl/index.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/soap/lib/utils.d.ts": [
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/soap/lib/soap.d.ts": [
+        "./node_modules/@types/bluebird/index.d.ts",
+        "./node_modules/soap/lib/client.d.ts",
+        "./node_modules/soap/lib/security/index.d.ts",
+        "./node_modules/soap/lib/server.d.ts",
+        "./node_modules/soap/lib/types.d.ts",
+        "./node_modules/soap/lib/http.d.ts",
+        "./node_modules/soap/lib/utils.d.ts",
+        "./node_modules/soap/lib/wsdl/index.d.ts",
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./src/api/soap/stock.ts": [
+        "./node_modules/soap/lib/soap.d.ts",
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./test/stock.test.ts": [
+        "./node_modules/@types/node/base.d.ts",
+        "./src/api/soap/stock.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@types/mocha/index.d.ts": [
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ]
+    },
+    "exportedModulesMap": {
+      "./node_modules/typescript/lib/lib.es6.d.ts": [
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/typescript/lib/lib.es5.d.ts": [
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/typescript/lib/lib.es2015.d.ts": [
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/typescript/lib/lib.es2016.d.ts": [
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/typescript/lib/lib.es2017.d.ts": [
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/typescript/lib/lib.dom.d.ts": [
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/typescript/lib/lib.dom.iterable.d.ts": [
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/typescript/lib/lib.webworker.importscripts.d.ts": [
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/typescript/lib/lib.scripthost.d.ts": [
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/typescript/lib/lib.es2015.core.d.ts": [
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/typescript/lib/lib.es2015.collection.d.ts": [
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/typescript/lib/lib.es2015.generator.d.ts": [
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/typescript/lib/lib.es2015.iterable.d.ts": [
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/typescript/lib/lib.es2015.promise.d.ts": [
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/typescript/lib/lib.es2015.proxy.d.ts": [
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/typescript/lib/lib.es2015.reflect.d.ts": [
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/typescript/lib/lib.es2015.symbol.d.ts": [
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts": [
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/typescript/lib/lib.es2016.array.include.d.ts": [
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/typescript/lib/lib.es2017.object.d.ts": [
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts": [
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/typescript/lib/lib.es2017.string.d.ts": [
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/typescript/lib/lib.es2017.intl.d.ts": [
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/typescript/lib/lib.es2017.typedarrays.d.ts": [
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/reflect-metadata/index.d.ts": [
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-ject/dist/scope-type.d.ts": [
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-ext/dist/index.d.ts": [
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-util/dist/make.d.ts": [
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-util/dist/delay.d.ts": [
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-util/dist/disposable.d.ts": [
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-util/dist/background-processor.d.ts": [
+        "./node_modules/@nivinjoseph/n-util/dist/disposable.d.ts",
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-util/dist/uuid.d.ts": [
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-util/dist/type-helper.d.ts": [
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-util/dist/duration.d.ts": [
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-util/dist/time.d.ts": [
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@types/node/inspector.d.ts": [
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@types/node/base.d.ts": [
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/inspector.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@types/node/ts3.2/index.d.ts": [
+        "./node_modules/@types/node/base.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-util/dist/image-helper.d.ts": [
+        "./node_modules/@types/node/ts3.2/index.d.ts",
+        "./node_modules/@types/node/base.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-util/dist/deferred.d.ts": [
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-util/dist/mutex.d.ts": [
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-util/dist/index.d.ts": [
+        "./node_modules/@nivinjoseph/n-ext/dist/index.d.ts",
+        "./node_modules/@nivinjoseph/n-util/dist/make.d.ts",
+        "./node_modules/@nivinjoseph/n-util/dist/delay.d.ts",
+        "./node_modules/@nivinjoseph/n-util/dist/disposable.d.ts",
+        "./node_modules/@nivinjoseph/n-util/dist/background-processor.d.ts",
+        "./node_modules/@nivinjoseph/n-util/dist/uuid.d.ts",
+        "./node_modules/@nivinjoseph/n-util/dist/type-helper.d.ts",
+        "./node_modules/@nivinjoseph/n-util/dist/duration.d.ts",
+        "./node_modules/@nivinjoseph/n-util/dist/time.d.ts",
+        "./node_modules/@nivinjoseph/n-util/dist/image-helper.d.ts",
+        "./node_modules/@nivinjoseph/n-util/dist/deferred.d.ts",
+        "./node_modules/@nivinjoseph/n-util/dist/mutex.d.ts",
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-ject/dist/service-locator.d.ts": [
+        "./node_modules/@nivinjoseph/n-util/dist/index.d.ts",
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-ject/dist/scope.d.ts": [
+        "./node_modules/@nivinjoseph/n-ject/dist/scope-type.d.ts",
+        "./node_modules/@nivinjoseph/n-ject/dist/service-locator.d.ts",
+        "./node_modules/@nivinjoseph/n-util/dist/index.d.ts",
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-ject/dist/lifestyle.d.ts": [
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-ject/dist/component-registration.d.ts": [
+        "./node_modules/@nivinjoseph/n-ject/dist/lifestyle.d.ts",
+        "./node_modules/reflect-metadata/index.d.ts",
+        "./node_modules/@nivinjoseph/n-util/dist/index.d.ts",
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-ject/dist/component-registry.d.ts": [
+        "./node_modules/@nivinjoseph/n-ject/dist/lifestyle.d.ts",
+        "./node_modules/@nivinjoseph/n-ject/dist/component-registration.d.ts",
+        "./node_modules/@nivinjoseph/n-util/dist/index.d.ts",
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-ject/dist/base-scope.d.ts": [
+        "./node_modules/@nivinjoseph/n-ject/dist/scope.d.ts",
+        "./node_modules/@nivinjoseph/n-ject/dist/scope-type.d.ts",
+        "./node_modules/@nivinjoseph/n-ext/dist/index.d.ts",
+        "./node_modules/@nivinjoseph/n-ject/dist/component-registry.d.ts",
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-ject/dist/registry.d.ts": [
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-ject/dist/component-installer.d.ts": [
+        "./node_modules/@nivinjoseph/n-ject/dist/registry.d.ts",
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-ject/dist/container.d.ts": [
+        "./node_modules/@nivinjoseph/n-ject/dist/scope.d.ts",
+        "./node_modules/@nivinjoseph/n-ject/dist/base-scope.d.ts",
+        "./node_modules/@nivinjoseph/n-ject/dist/component-installer.d.ts",
+        "./node_modules/@nivinjoseph/n-ject/dist/registry.d.ts",
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-ject/dist/inject.d.ts": [
+        "./node_modules/reflect-metadata/index.d.ts",
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-ject/dist/index.d.ts": [
+        "./node_modules/reflect-metadata/index.d.ts",
+        "./node_modules/@nivinjoseph/n-ject/dist/container.d.ts",
+        "./node_modules/@nivinjoseph/n-ject/dist/scope.d.ts",
+        "./node_modules/@nivinjoseph/n-ject/dist/scope-type.d.ts",
+        "./node_modules/@nivinjoseph/n-ject/dist/component-installer.d.ts",
+        "./node_modules/@nivinjoseph/n-ject/dist/registry.d.ts",
+        "./node_modules/@nivinjoseph/n-ject/dist/inject.d.ts",
+        "./node_modules/@nivinjoseph/n-ject/dist/service-locator.d.ts",
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-defensive/dist/index.d.ts": [
+        "./node_modules/@nivinjoseph/n-ext/dist/index.d.ts",
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./src/api/app-component-installer.ts": [
+        "./node_modules/@nivinjoseph/n-ject/dist/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-exception/dist/exception.d.ts": [
+        "./node_modules/@nivinjoseph/n-ext/dist/index.d.ts",
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-exception/dist/application-exception.d.ts": [
+        "./node_modules/@nivinjoseph/n-exception/dist/exception.d.ts",
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-exception/dist/argument-exception.d.ts": [
+        "./node_modules/@nivinjoseph/n-exception/dist/exception.d.ts",
+        "./node_modules/@nivinjoseph/n-ext/dist/index.d.ts",
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-exception/dist/argument-null-exception.d.ts": [
+        "./node_modules/@nivinjoseph/n-exception/dist/argument-exception.d.ts",
+        "./node_modules/@nivinjoseph/n-exception/dist/exception.d.ts",
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-exception/dist/invalid-argument-exception.d.ts": [
+        "./node_modules/@nivinjoseph/n-exception/dist/argument-exception.d.ts",
+        "./node_modules/@nivinjoseph/n-exception/dist/exception.d.ts",
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-exception/dist/invalid-operation-exception.d.ts": [
+        "./node_modules/@nivinjoseph/n-exception/dist/exception.d.ts",
+        "./node_modules/@nivinjoseph/n-ext/dist/index.d.ts",
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-exception/dist/not-implemented-exception.d.ts": [
+        "./node_modules/@nivinjoseph/n-exception/dist/exception.d.ts",
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-exception/dist/object-disposed-exception.d.ts": [
+        "./node_modules/@nivinjoseph/n-exception/dist/exception.d.ts",
+        "./node_modules/@nivinjoseph/n-ext/dist/index.d.ts",
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-exception/dist/index.d.ts": [
+        "./node_modules/@nivinjoseph/n-exception/dist/exception.d.ts",
+        "./node_modules/@nivinjoseph/n-exception/dist/application-exception.d.ts",
+        "./node_modules/@nivinjoseph/n-exception/dist/argument-exception.d.ts",
+        "./node_modules/@nivinjoseph/n-exception/dist/argument-null-exception.d.ts",
+        "./node_modules/@nivinjoseph/n-exception/dist/invalid-argument-exception.d.ts",
+        "./node_modules/@nivinjoseph/n-exception/dist/invalid-operation-exception.d.ts",
+        "./node_modules/@nivinjoseph/n-exception/dist/not-implemented-exception.d.ts",
+        "./node_modules/@nivinjoseph/n-exception/dist/object-disposed-exception.d.ts",
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-log/dist/logger.d.ts": [
+        "./node_modules/@nivinjoseph/n-exception/dist/index.d.ts",
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-log/dist/log-date-time-zone.d.ts": [
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-log/dist/console-logger.d.ts": [
+        "./node_modules/@nivinjoseph/n-log/dist/logger.d.ts",
+        "./node_modules/@nivinjoseph/n-exception/dist/index.d.ts",
+        "./node_modules/@nivinjoseph/n-log/dist/log-date-time-zone.d.ts",
+        "./node_modules/@nivinjoseph/n-ext/dist/index.d.ts",
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-log/dist/file-logger.d.ts": [
+        "./node_modules/@nivinjoseph/n-log/dist/logger.d.ts",
+        "./node_modules/@nivinjoseph/n-exception/dist/index.d.ts",
+        "./node_modules/@nivinjoseph/n-log/dist/log-date-time-zone.d.ts",
+        "./node_modules/@nivinjoseph/n-ext/dist/index.d.ts",
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-log/dist/index.d.ts": [
+        "./node_modules/@nivinjoseph/n-log/dist/logger.d.ts",
+        "./node_modules/@nivinjoseph/n-log/dist/log-date-time-zone.d.ts",
+        "./node_modules/@nivinjoseph/n-log/dist/console-logger.d.ts",
+        "./node_modules/@nivinjoseph/n-log/dist/file-logger.d.ts",
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-web/dist/web-app.d.ts": [
+        "./node_modules/@nivinjoseph/n-ject/dist/index.d.ts",
+        "./node_modules/@nivinjoseph/n-ext/dist/index.d.ts",
+        "./node_modules/@nivinjoseph/n-log/dist/index.d.ts",
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-web/dist/controller.d.ts": [
+        "./node_modules/@nivinjoseph/n-ext/dist/index.d.ts",
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-web/dist/route.d.ts": [
+        "./node_modules/reflect-metadata/index.d.ts",
+        "./node_modules/@nivinjoseph/n-ext/dist/index.d.ts",
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-web/dist/http-method.d.ts": [
+        "./node_modules/reflect-metadata/index.d.ts",
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-web/dist/query.d.ts": [
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-web/dist/command.d.ts": [
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-web/dist/view.d.ts": [
+        "./node_modules/reflect-metadata/index.d.ts",
+        "./node_modules/@nivinjoseph/n-ext/dist/index.d.ts",
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-web/dist/view-layout.d.ts": [
+        "./node_modules/reflect-metadata/index.d.ts",
+        "./node_modules/@nivinjoseph/n-ext/dist/index.d.ts",
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-web/dist/utils.d.ts": [
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-web/dist/exceptions/http-exception.d.ts": [
+        "./node_modules/@nivinjoseph/n-exception/dist/index.d.ts",
+        "./node_modules/@nivinjoseph/n-ext/dist/index.d.ts",
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-web/dist/exceptions/exception-handler.d.ts": [
+        "./node_modules/@nivinjoseph/n-exception/dist/index.d.ts",
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-web/dist/exceptions/default-exception-handler.d.ts": [
+        "./node_modules/@nivinjoseph/n-exception/dist/index.d.ts",
+        "./node_modules/@nivinjoseph/n-ext/dist/index.d.ts",
+        "./node_modules/@nivinjoseph/n-web/dist/exceptions/exception-handler.d.ts",
+        "./node_modules/@nivinjoseph/n-log/dist/index.d.ts",
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-sec/dist/crypto/symmetric-encryption.d.ts": [
+        "./node_modules/@nivinjoseph/n-ext/dist/index.d.ts",
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-sec/dist/crypto/hmac.d.ts": [
+        "./node_modules/@nivinjoseph/n-ext/dist/index.d.ts",
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-sec/dist/crypto/hash.d.ts": [
+        "./node_modules/@nivinjoseph/n-ext/dist/index.d.ts",
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-sec/dist/crypto/digital-signature.d.ts": [
+        "./node_modules/@nivinjoseph/n-ext/dist/index.d.ts",
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-sec/dist/crypto/asymmetric-encryption.d.ts": [
+        "./node_modules/@nivinjoseph/n-ext/dist/index.d.ts",
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-sec/dist/crypto/crypto-exception.d.ts": [
+        "./node_modules/@nivinjoseph/n-exception/dist/index.d.ts",
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-sec/dist/api-security/alg-type.d.ts": [
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-sec/dist/api-security/claim.d.ts": [
+        "./node_modules/@nivinjoseph/n-ext/dist/index.d.ts",
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-sec/dist/api-security/claims-identity.d.ts": [
+        "./node_modules/@nivinjoseph/n-sec/dist/api-security/claim.d.ts",
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-sec/dist/api-security/expired-token-exception.d.ts": [
+        "./node_modules/@nivinjoseph/n-exception/dist/index.d.ts",
+        "./node_modules/@nivinjoseph/n-ext/dist/index.d.ts",
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-sec/dist/api-security/invalid-token-exception.d.ts": [
+        "./node_modules/@nivinjoseph/n-exception/dist/index.d.ts",
+        "./node_modules/@nivinjoseph/n-ext/dist/index.d.ts",
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-sec/dist/api-security/json-web-token.d.ts": [
+        "./node_modules/@nivinjoseph/n-sec/dist/api-security/claim.d.ts",
+        "./node_modules/@nivinjoseph/n-ext/dist/index.d.ts",
+        "./node_modules/@nivinjoseph/n-sec/dist/api-security/alg-type.d.ts",
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-sec/dist/index.d.ts": [
+        "./node_modules/@nivinjoseph/n-sec/dist/crypto/symmetric-encryption.d.ts",
+        "./node_modules/@nivinjoseph/n-sec/dist/crypto/hmac.d.ts",
+        "./node_modules/@nivinjoseph/n-sec/dist/crypto/hash.d.ts",
+        "./node_modules/@nivinjoseph/n-sec/dist/crypto/digital-signature.d.ts",
+        "./node_modules/@nivinjoseph/n-sec/dist/crypto/asymmetric-encryption.d.ts",
+        "./node_modules/@nivinjoseph/n-sec/dist/crypto/crypto-exception.d.ts",
+        "./node_modules/@nivinjoseph/n-sec/dist/api-security/alg-type.d.ts",
+        "./node_modules/@nivinjoseph/n-sec/dist/api-security/claim.d.ts",
+        "./node_modules/@nivinjoseph/n-sec/dist/api-security/claims-identity.d.ts",
+        "./node_modules/@nivinjoseph/n-sec/dist/api-security/expired-token-exception.d.ts",
+        "./node_modules/@nivinjoseph/n-sec/dist/api-security/invalid-token-exception.d.ts",
+        "./node_modules/@nivinjoseph/n-sec/dist/api-security/json-web-token.d.ts",
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-web/dist/services/call-context/call-context.d.ts": [
+        "./node_modules/@nivinjoseph/n-ject/dist/index.d.ts",
+        "./node_modules/@nivinjoseph/n-sec/dist/index.d.ts",
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-web/dist/application-script.d.ts": [
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-web/dist/security/authentication-handler.d.ts": [
+        "./node_modules/@nivinjoseph/n-sec/dist/index.d.ts",
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-web/dist/security/authorization-handler.d.ts": [
+        "./node_modules/@nivinjoseph/n-sec/dist/index.d.ts",
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-web/dist/security/default-authorization-handler.d.ts": [
+        "./node_modules/@nivinjoseph/n-web/dist/security/authorization-handler.d.ts",
+        "./node_modules/@nivinjoseph/n-sec/dist/index.d.ts",
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-web/dist/security/authorize.d.ts": [
+        "./node_modules/reflect-metadata/index.d.ts",
+        "./node_modules/@nivinjoseph/n-sec/dist/index.d.ts",
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-web/dist/index.d.ts": [
+        "./node_modules/@nivinjoseph/n-web/dist/web-app.d.ts",
+        "./node_modules/@nivinjoseph/n-web/dist/controller.d.ts",
+        "./node_modules/@nivinjoseph/n-web/dist/route.d.ts",
+        "./node_modules/@nivinjoseph/n-web/dist/http-method.d.ts",
+        "./node_modules/@nivinjoseph/n-web/dist/query.d.ts",
+        "./node_modules/@nivinjoseph/n-web/dist/command.d.ts",
+        "./node_modules/@nivinjoseph/n-web/dist/view.d.ts",
+        "./node_modules/@nivinjoseph/n-web/dist/view-layout.d.ts",
+        "./node_modules/@nivinjoseph/n-web/dist/utils.d.ts",
+        "./node_modules/@nivinjoseph/n-web/dist/exceptions/http-exception.d.ts",
+        "./node_modules/@nivinjoseph/n-web/dist/exceptions/exception-handler.d.ts",
+        "./node_modules/@nivinjoseph/n-web/dist/exceptions/default-exception-handler.d.ts",
+        "./node_modules/@nivinjoseph/n-web/dist/services/call-context/call-context.d.ts",
+        "./node_modules/@nivinjoseph/n-web/dist/application-script.d.ts",
+        "./node_modules/@nivinjoseph/n-web/dist/security/authentication-handler.d.ts",
+        "./node_modules/@nivinjoseph/n-web/dist/security/authorization-handler.d.ts",
+        "./node_modules/@nivinjoseph/n-web/dist/security/default-authorization-handler.d.ts",
+        "./node_modules/@nivinjoseph/n-web/dist/security/authorize.d.ts",
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@nivinjoseph/n-config/dist/index.d.ts": [
+        "./node_modules/@nivinjoseph/n-ext/dist/index.d.ts",
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@types/bluebird/index.d.ts": [
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@types/caseless/index.d.ts": [
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/form-data/index.d.ts": [
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@types/tough-cookie/index.d.ts": [
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@types/request/index.d.ts": [
+        "./node_modules/@types/caseless/index.d.ts",
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/form-data/index.d.ts",
+        "./node_modules/@types/tough-cookie/index.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/soap/lib/http.d.ts": [
+        "./node_modules/@types/request/index.d.ts",
+        "./node_modules/soap/lib/types.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts",
+        "./node_modules/@types/node/base.d.ts"
+      ],
+      "./node_modules/soap/lib/types.d.ts": [
+        "./node_modules/@types/request/index.d.ts",
+        "./node_modules/soap/lib/http.d.ts",
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/soap/lib/nscontext.d.ts": [
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/soap/lib/wsdl/elements.d.ts": [
+        "./node_modules/soap/lib/types.d.ts",
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/soap/lib/wsdl/index.d.ts": [
+        "./node_modules/soap/lib/nscontext.d.ts",
+        "./node_modules/soap/lib/types.d.ts",
+        "./node_modules/soap/lib/wsdl/elements.d.ts",
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/soap/lib/client.d.ts": [
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/request/index.d.ts",
+        "./node_modules/soap/lib/types.d.ts",
+        "./node_modules/soap/lib/wsdl/index.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/soap/lib/security/BasicAuthSecurity.d.ts": [
+        "./node_modules/soap/lib/types.d.ts",
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/soap/lib/security/BearerSecurity.d.ts": [
+        "./node_modules/soap/lib/types.d.ts",
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/soap/lib/security/ClientSSLSecurity.d.ts": [
+        "./node_modules/soap/lib/types.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts",
+        "./node_modules/@types/node/base.d.ts"
+      ],
+      "./node_modules/soap/lib/security/ClientSSLSecurityPFX.d.ts": [
+        "./node_modules/soap/lib/types.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts",
+        "./node_modules/@types/node/base.d.ts"
+      ],
+      "./node_modules/soap/lib/security/NTLMSecurity.d.ts": [
+        "./node_modules/soap/lib/types.d.ts",
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/soap/lib/security/WSSecurity.d.ts": [
+        "./node_modules/soap/lib/types.d.ts",
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/soap/lib/security/WSSecurityCert.d.ts": [
+        "./node_modules/soap/lib/types.d.ts",
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/soap/lib/security/index.d.ts": [
+        "./node_modules/soap/lib/security/BasicAuthSecurity.d.ts",
+        "./node_modules/soap/lib/security/BearerSecurity.d.ts",
+        "./node_modules/soap/lib/security/ClientSSLSecurity.d.ts",
+        "./node_modules/soap/lib/security/ClientSSLSecurityPFX.d.ts",
+        "./node_modules/soap/lib/security/NTLMSecurity.d.ts",
+        "./node_modules/soap/lib/security/WSSecurity.d.ts",
+        "./node_modules/soap/lib/security/WSSecurityCert.d.ts",
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/soap/lib/server.d.ts": [
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/soap/lib/types.d.ts",
+        "./node_modules/soap/lib/wsdl/index.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/soap/lib/utils.d.ts": [
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/soap/lib/soap.d.ts": [
+        "./node_modules/soap/lib/client.d.ts",
+        "./node_modules/soap/lib/security/index.d.ts",
+        "./node_modules/soap/lib/server.d.ts",
+        "./node_modules/soap/lib/types.d.ts",
+        "./node_modules/soap/lib/http.d.ts",
+        "./node_modules/soap/lib/utils.d.ts",
+        "./node_modules/soap/lib/wsdl/index.d.ts",
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "./node_modules/@types/mocha/index.d.ts": [
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts"
+      ]
+    },
+    "semanticDiagnosticsPerFile": [
+      "./node_modules/typescript/lib/lib.es6.d.ts",
+      "./node_modules/typescript/lib/lib.es5.d.ts",
+      "./node_modules/typescript/lib/lib.es2015.d.ts",
+      "./node_modules/typescript/lib/lib.es2016.d.ts",
+      "./node_modules/typescript/lib/lib.es2017.d.ts",
+      "./node_modules/typescript/lib/lib.dom.d.ts",
+      "./node_modules/typescript/lib/lib.dom.iterable.d.ts",
+      "./node_modules/typescript/lib/lib.webworker.importscripts.d.ts",
+      "./node_modules/typescript/lib/lib.scripthost.d.ts",
+      "./node_modules/typescript/lib/lib.es2015.core.d.ts",
+      "./node_modules/typescript/lib/lib.es2015.collection.d.ts",
+      "./node_modules/typescript/lib/lib.es2015.generator.d.ts",
+      "./node_modules/typescript/lib/lib.es2015.iterable.d.ts",
+      "./node_modules/typescript/lib/lib.es2015.promise.d.ts",
+      "./node_modules/typescript/lib/lib.es2015.proxy.d.ts",
+      "./node_modules/typescript/lib/lib.es2015.reflect.d.ts",
+      "./node_modules/typescript/lib/lib.es2015.symbol.d.ts",
+      "./node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts",
+      "./node_modules/typescript/lib/lib.es2016.array.include.d.ts",
+      "./node_modules/typescript/lib/lib.es2017.object.d.ts",
+      "./node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts",
+      "./node_modules/typescript/lib/lib.es2017.string.d.ts",
+      "./node_modules/typescript/lib/lib.es2017.intl.d.ts",
+      "./node_modules/typescript/lib/lib.es2017.typedarrays.d.ts",
+      "./node_modules/reflect-metadata/index.d.ts",
+      "./node_modules/@nivinjoseph/n-ject/dist/scope-type.d.ts",
+      "./node_modules/@nivinjoseph/n-ext/dist/index.d.ts",
+      "./node_modules/@nivinjoseph/n-util/dist/make.d.ts",
+      "./node_modules/@nivinjoseph/n-util/dist/delay.d.ts",
+      "./node_modules/@nivinjoseph/n-util/dist/disposable.d.ts",
+      "./node_modules/@nivinjoseph/n-util/dist/background-processor.d.ts",
+      "./node_modules/@nivinjoseph/n-util/dist/uuid.d.ts",
+      "./node_modules/@nivinjoseph/n-util/dist/type-helper.d.ts",
+      "./node_modules/@nivinjoseph/n-util/dist/duration.d.ts",
+      "./node_modules/@nivinjoseph/n-util/dist/time.d.ts",
+      "./node_modules/@types/node/inspector.d.ts",
+      "./node_modules/@types/node/base.d.ts",
+      "./node_modules/@types/node/ts3.2/index.d.ts",
+      "./node_modules/@nivinjoseph/n-util/dist/image-helper.d.ts",
+      "./node_modules/@nivinjoseph/n-util/dist/deferred.d.ts",
+      "./node_modules/@nivinjoseph/n-util/dist/mutex.d.ts",
+      "./node_modules/@nivinjoseph/n-util/dist/index.d.ts",
+      "./node_modules/@nivinjoseph/n-ject/dist/service-locator.d.ts",
+      "./node_modules/@nivinjoseph/n-ject/dist/scope.d.ts",
+      "./node_modules/@nivinjoseph/n-ject/dist/lifestyle.d.ts",
+      "./node_modules/@nivinjoseph/n-ject/dist/component-registration.d.ts",
+      "./node_modules/@nivinjoseph/n-ject/dist/component-registry.d.ts",
+      "./node_modules/@nivinjoseph/n-ject/dist/base-scope.d.ts",
+      "./node_modules/@nivinjoseph/n-ject/dist/registry.d.ts",
+      "./node_modules/@nivinjoseph/n-ject/dist/component-installer.d.ts",
+      "./node_modules/@nivinjoseph/n-ject/dist/container.d.ts",
+      "./node_modules/@nivinjoseph/n-ject/dist/inject.d.ts",
+      "./node_modules/@nivinjoseph/n-ject/dist/index.d.ts",
+      "./node_modules/@nivinjoseph/n-defensive/dist/index.d.ts",
+      "./src/api/app-component-installer.ts",
+      "./node_modules/@nivinjoseph/n-exception/dist/exception.d.ts",
+      "./node_modules/@nivinjoseph/n-exception/dist/application-exception.d.ts",
+      "./node_modules/@nivinjoseph/n-exception/dist/argument-exception.d.ts",
+      "./node_modules/@nivinjoseph/n-exception/dist/argument-null-exception.d.ts",
+      "./node_modules/@nivinjoseph/n-exception/dist/invalid-argument-exception.d.ts",
+      "./node_modules/@nivinjoseph/n-exception/dist/invalid-operation-exception.d.ts",
+      "./node_modules/@nivinjoseph/n-exception/dist/not-implemented-exception.d.ts",
+      "./node_modules/@nivinjoseph/n-exception/dist/object-disposed-exception.d.ts",
+      "./node_modules/@nivinjoseph/n-exception/dist/index.d.ts",
+      "./node_modules/@nivinjoseph/n-log/dist/logger.d.ts",
+      "./node_modules/@nivinjoseph/n-log/dist/log-date-time-zone.d.ts",
+      "./node_modules/@nivinjoseph/n-log/dist/console-logger.d.ts",
+      "./node_modules/@nivinjoseph/n-log/dist/file-logger.d.ts",
+      "./node_modules/@nivinjoseph/n-log/dist/index.d.ts",
+      "./node_modules/@nivinjoseph/n-web/dist/web-app.d.ts",
+      "./node_modules/@nivinjoseph/n-web/dist/controller.d.ts",
+      "./node_modules/@nivinjoseph/n-web/dist/route.d.ts",
+      "./node_modules/@nivinjoseph/n-web/dist/http-method.d.ts",
+      "./node_modules/@nivinjoseph/n-web/dist/query.d.ts",
+      "./node_modules/@nivinjoseph/n-web/dist/command.d.ts",
+      "./node_modules/@nivinjoseph/n-web/dist/view.d.ts",
+      "./node_modules/@nivinjoseph/n-web/dist/view-layout.d.ts",
+      "./node_modules/@nivinjoseph/n-web/dist/utils.d.ts",
+      "./node_modules/@nivinjoseph/n-web/dist/exceptions/http-exception.d.ts",
+      "./node_modules/@nivinjoseph/n-web/dist/exceptions/exception-handler.d.ts",
+      "./node_modules/@nivinjoseph/n-web/dist/exceptions/default-exception-handler.d.ts",
+      "./node_modules/@nivinjoseph/n-sec/dist/crypto/symmetric-encryption.d.ts",
+      "./node_modules/@nivinjoseph/n-sec/dist/crypto/hmac.d.ts",
+      "./node_modules/@nivinjoseph/n-sec/dist/crypto/hash.d.ts",
+      "./node_modules/@nivinjoseph/n-sec/dist/crypto/digital-signature.d.ts",
+      "./node_modules/@nivinjoseph/n-sec/dist/crypto/asymmetric-encryption.d.ts",
+      "./node_modules/@nivinjoseph/n-sec/dist/crypto/crypto-exception.d.ts",
+      "./node_modules/@nivinjoseph/n-sec/dist/api-security/alg-type.d.ts",
+      "./node_modules/@nivinjoseph/n-sec/dist/api-security/claim.d.ts",
+      "./node_modules/@nivinjoseph/n-sec/dist/api-security/claims-identity.d.ts",
+      "./node_modules/@nivinjoseph/n-sec/dist/api-security/expired-token-exception.d.ts",
+      "./node_modules/@nivinjoseph/n-sec/dist/api-security/invalid-token-exception.d.ts",
+      "./node_modules/@nivinjoseph/n-sec/dist/api-security/json-web-token.d.ts",
+      "./node_modules/@nivinjoseph/n-sec/dist/index.d.ts",
+      "./node_modules/@nivinjoseph/n-web/dist/services/call-context/call-context.d.ts",
+      "./node_modules/@nivinjoseph/n-web/dist/application-script.d.ts",
+      "./node_modules/@nivinjoseph/n-web/dist/security/authentication-handler.d.ts",
+      "./node_modules/@nivinjoseph/n-web/dist/security/authorization-handler.d.ts",
+      "./node_modules/@nivinjoseph/n-web/dist/security/default-authorization-handler.d.ts",
+      "./node_modules/@nivinjoseph/n-web/dist/security/authorize.d.ts",
+      "./node_modules/@nivinjoseph/n-web/dist/index.d.ts",
+      "./node_modules/@nivinjoseph/n-config/dist/index.d.ts",
+      "./src/api/server.ts",
+      "./node_modules/@types/bluebird/index.d.ts",
+      "./node_modules/@types/caseless/index.d.ts",
+      "./node_modules/form-data/index.d.ts",
+      "./node_modules/@types/tough-cookie/index.d.ts",
+      "./node_modules/@types/request/index.d.ts",
+      "./node_modules/soap/lib/http.d.ts",
+      "./node_modules/soap/lib/types.d.ts",
+      "./node_modules/soap/lib/nscontext.d.ts",
+      "./node_modules/soap/lib/wsdl/elements.d.ts",
+      "./node_modules/soap/lib/wsdl/index.d.ts",
+      "./node_modules/soap/lib/client.d.ts",
+      "./node_modules/soap/lib/security/BasicAuthSecurity.d.ts",
+      "./node_modules/soap/lib/security/BearerSecurity.d.ts",
+      "./node_modules/soap/lib/security/ClientSSLSecurity.d.ts",
+      "./node_modules/soap/lib/security/ClientSSLSecurityPFX.d.ts",
+      "./node_modules/soap/lib/security/NTLMSecurity.d.ts",
+      "./node_modules/soap/lib/security/WSSecurity.d.ts",
+      "./node_modules/soap/lib/security/WSSecurityCert.d.ts",
+      "./node_modules/soap/lib/security/index.d.ts",
+      "./node_modules/soap/lib/server.d.ts",
+      "./node_modules/soap/lib/utils.d.ts",
+      "./node_modules/soap/lib/soap.d.ts",
+      "./src/api/soap/stock.ts",
+      "./test/stock.test.ts",
+      "./node_modules/@types/mocha/index.d.ts"
+    ]
+  },
+  "version": "3.6.2"
+}

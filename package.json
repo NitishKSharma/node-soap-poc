@@ -1,0 +1,56 @@
+{
+    "name": "node-soap-poc",
+    "version": "1.0.0",
+    "description": "POC for consuming soap api using ndoe js and node-soap",
+    "main": "index.js",
+    "scripts": {
+        "ts-compile": "tsc -p .",
+        "ts-compile-watch": "npm run ts-compile -- -w",
+        "ts-lint": "tslint -p . -c tslint.json",
+        "ts-build": "npm run ts-compile && npm run ts-lint",
+        "nodemon": "nodemon --ignore client/ --ignore test/ --inspect=4001 ./src/api/server.js",
+        "predev": "npm run ts-build",
+        "dev": "concurrently \"npm:ts-compile-watch\" \"npm:nodemon\"",
+        "pretest": "npm run ts-build",
+        "test": "mocha --timeout 7200000 --reporter spec --ui tdd --require ts-node/register \"./test/**/*.test.js\" || true",
+        "build": "env=prod npm run ts-build",
+        "start": "node ./src/api/server.js env=prod",
+        "clean-src": "find ./src -name \"*.js\" -delete -o -name \"*.map\" -delete -o -name \"*.css\" -delete",
+        "clean-test": "find ./test -name \"*.js\" -delete -o -name \"*.map\" -delete"
+    },
+    "author": "Nitish",
+    "license": "ISC",
+    "devDependencies": {
+        "concurrently": "^4.1.0",
+        "nodemon": "^1.19.0"
+    },
+    "dependencies": {
+        "@nivinjoseph/n-config": "^1.0.24",
+        "@nivinjoseph/n-data": "^2.0.9",
+        "@nivinjoseph/n-defensive": "^1.0.27",
+        "@nivinjoseph/n-domain": "^1.2.22",
+        "@nivinjoseph/n-eda": "^1.0.11",
+        "@nivinjoseph/n-exception": "^1.0.18",
+        "@nivinjoseph/n-ext": "^1.1.9",
+        "@nivinjoseph/n-ject": "^1.1.8",
+        "@nivinjoseph/n-log": "^1.0.9",
+        "@nivinjoseph/n-sec": "^3.0.3",
+        "@nivinjoseph/n-util": "^1.0.31",
+        "@nivinjoseph/n-validate": "^1.0.21",
+        "@nivinjoseph/n-web": "^3.2.21",
+        "@types/bluebird": "^3.5.29",
+        "@types/mocha": "^5.2.5",
+        "@types/node": "^8.10.53",
+        "mocha": "^5.2.0",
+        "moment": "^2.24.0",
+        "soap": "^0.30.0",
+        "ts-node": "^2.1.0",
+        "tslint": "^5.16.0",
+        "typescript": "^3.4.5",
+        "typescript-tslint-plugin": "^0.3.1"
+    },
+    "engines": {
+        "node": "8.9.4",
+        "npm": "6.4.1"
+    }
+}
