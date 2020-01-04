@@ -1936,7 +1936,6 @@
       ]
     },
     "semanticDiagnosticsPerFile": [
-      "./src/api/soap/stock.ts",
       "./node_modules/typescript/lib/lib.es6.d.ts",
       "./node_modules/typescript/lib/lib.es5.d.ts",
       "./node_modules/typescript/lib/lib.es2015.d.ts",
@@ -2062,6 +2061,7 @@
       "./node_modules/soap/lib/server.d.ts",
       "./node_modules/soap/lib/utils.d.ts",
       "./node_modules/soap/lib/soap.d.ts",
+      "./src/api/soap/stock.ts",
       "./test/stock.test.ts",
       "./node_modules/@types/mocha/index.d.ts"
     ]
