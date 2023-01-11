@@ -26,7 +26,7 @@
     },
     "dependencies": {
         "@nivinjoseph/n-config": "^1.0.24",
-        "@nivinjoseph/n-data": "^2.0.9",
+        "@nivinjoseph/n-data": "^2.0.46",
         "@nivinjoseph/n-defensive": "^1.0.27",
         "@nivinjoseph/n-domain": "^1.2.22",
         "@nivinjoseph/n-eda": "^1.0.11",
